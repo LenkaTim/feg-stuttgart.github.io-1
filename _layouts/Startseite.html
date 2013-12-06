@@ -1,0 +1,25 @@
+<!-- Head -->
+{% include head.html %}
+    
+  <!-- Body -->
+  <body>
+
+    <div class="container">
+        
+      <!--Navigation -->
+        <div class="masthead">
+          <img src="http://www.feg-stuttgart.de/bilder/logo.gif">
+          <br><br>
+          <ul class="nav nav-justified">
+            <li class="active"><a href="#">Startseite</a></li>
+            <li><a href="/Portrait/">Portrait</a></li>
+            <li><a href="/Schulleben/">Schulleben</a></li>
+            <li><a href="/Ehemalige/">Ehemalige</a></li>
+            <li><a href="/Galerie/">Galerie</a></li>
+            <li><a href="/SMV/">SMV</a></li>
+            <li><a href="/Impressum/">Kontakt/Impressum</a></li>
+          </ul>
+        </div>
+        {{ content }}
+                    
+{% include footer.html %}
