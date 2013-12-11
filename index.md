@@ -14,12 +14,13 @@ layout: Startseite
 <!-- News -->
 <div class="row">
   <div class="col-lg-4">
-    <h2>Schulgottesdienst</h2>
-    <p>Am 22.12.2013 findet der Schulgottesdienst statt</p>
+    <h2>Aktuelle Termine</h2>
+    <p>- 20.12.2013 Schulgottesdienst in der Rosenbergkirche</p>
   </div>
   <div class="col-lg-4">
     <h2>Kalender</h2>
     <p>Hier finden Sie den Terminkalender des Schuljahres: </p>
+    <br>
     <p><a class="btn btn-primary" href="/Schulleben/Termine/Aktuell" role="button">Termine &raquo;</a></p>
   </div>
   <div class="col-lg-4">
@@ -35,11 +36,13 @@ layout: Startseite
   <div class="col-lg-4">
     <h2>Speisepläne</h2>
     <p>Die Speisepläne für die Zeit bis Weihnachten sind online</p>
+    <br>
     <p><a class="btn btn-primary" href="Schulleben/Speiseplaene" role="button">Speisepläne &raquo;</a></p>
   </div>
     <div class="col-lg-4">
     <h2>Vertretungspläne</h2>
     <p>Die aktuellen Vertretungspläne</p>
+    <br>
     <p><a class="btn btn-primary" href="Schulleben/Vertretungspläne" role="button">Vertretungspläne &raquo;</a></p>
   </div>
 </div>
