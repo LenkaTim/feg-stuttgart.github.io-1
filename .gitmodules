@@ -1,7 +1,7 @@
 [submodule "Design"]
 	path = _includes
 	url = https://github.com/feg-stuttgart/web_includes.git
-[submodule "Layouts]
+[submodule "Layouts"]
 	path = _layouts
 	url = https://github.com/feg-stuttgart/web_layouts.git
 [submodule "Bilder"]
