@@ -5,6 +5,6 @@ layout: nothing
 
 <script type="text/javascript">
 <!--
-window.location = "/SMV/SMV/"
+window.location = "http://www.smv.feg-stuttgart.de"
 //-->
 </script>
