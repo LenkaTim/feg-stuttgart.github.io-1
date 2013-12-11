@@ -1,0 +1,4 @@
+[submodule "Web-Head"]
+        path = .
+        url = https://github.com/youreevil/web-head
+        ignore = all
