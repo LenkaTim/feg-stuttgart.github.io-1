@@ -8,7 +8,7 @@ layout: Startseite
 <div class="jumbotron">
   <h1>Willkomen am FEG!</h1>
   <p class="lead">Irgendeine Einleitung halt, denkt euch was aus....</p>
-  <p><a class="btn btn-lg btn-success" href="#" role="button">*Wichtiger Link*</a></p>
+  <p><a class="btn btn-lg btn-success" href="" role="button">*Wichtiger Link*</a></p>
 </div>
 
 <!-- News -->
