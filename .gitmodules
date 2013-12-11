@@ -1,4 +1,4 @@
 [submodule "_includes"]
-	path = _includes/
-	url = https://github.com/youreevil/web_includes.git
+	path = _includes
+	url = git://github.com/youreevil/web_includes.git
 	ignore = all
