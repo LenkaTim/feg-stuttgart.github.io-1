@@ -39,10 +39,4 @@ layout: Startseite
     <br>
     <p><a class="btn btn-primary" href="Schulleben/Speiseplaene" role="button">Speisepläne &raquo;</a></p>
   </div>
-    <div class="col-lg-4">
-    <h2>Vertretungspläne</h2>
-    <p>Die aktuellen Vertretungspläne</p>
-    <br>
-    <p><a class="btn btn-primary" href="Schulleben/Vertretungsplaene" role="button">Vertretungspläne &raquo;</a></p>
-  </div>
 </div>
