@@ -1,6 +1,6 @@
 [submodule "_includes"]
 	path = _includes
-	url = https://github.com/feg-stuttgart/feg-stuttgart.github.io/web_includes.git
+	url = https://github.com/feg-stuttgart/web_includes.git
 [submodule "_layouts"]
 	path = _layouts
-	url = https://github.com/feg-stuttgart/feg-stuttgart.github.io/web_layouts.git
+	url = https://github.com/feg-stuttgart/web_layouts.git
