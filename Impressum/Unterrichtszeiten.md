@@ -77,7 +77,7 @@ layout: Impressum
         <div align="center">7. Stunde </div>
       </td>        
       <td>
-        <div align="center">Miitagspause / 55 Min </div>
+        <div align="center">Mittagspause / 55 Min </div>
       </td>      
     </tr>      
     <tr>        
