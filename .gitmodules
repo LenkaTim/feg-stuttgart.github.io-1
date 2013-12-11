@@ -4,3 +4,6 @@
 [submodule "_layouts"]
 	path = _layouts
 	url = https://github.com/feg-stuttgart/web_layouts.git
+[submodule "img"]
+	path = img
+	url = https://github.com/feg-stuttgart/web_bilder
