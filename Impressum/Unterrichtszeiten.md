@@ -116,4 +116,4 @@ layout: Impressum
 </table>
 
   <br>
-  <p>Druckvorlage: <i class="fa fa-cloud-download"></i><a href="http://www.feg-stuttgart.de/downloads/Unterrichtszeiten.pdf"> Download als PDF, 37KB </a></p>
+  <p><i class="fa fa-cloud-download"></i> Druckvorlage: <a href="http://www.feg-stuttgart.de/downloads/Unterrichtszeiten.pdf">Download als PDF, 37KB </a></p>
