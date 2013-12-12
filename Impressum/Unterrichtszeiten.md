@@ -4,7 +4,7 @@ layout: Impressum
 ---
 
 
-<h3>Die Unterrichtszeiten am FEG</h3>
+<h3><i class="fa fa-clock-o"></i> Die Unterrichtszeiten am FEG</h3>
 
 <table bgcolor="#CCCCCC" border="10" bordercolor="#FFFFFF" width="34%">
   <tbody>
