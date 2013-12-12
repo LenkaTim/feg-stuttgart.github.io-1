@@ -4,7 +4,7 @@ layout: Impressum
 ---
 
 
-<h3>Impressum:</h3>
+<h3><i class="fa fa-pencil-square-o"></i> Impressum:</h3>
 
   <p>Diensteanbieter dieses Internetangebots ist das Land Baden-Württemberg, vertreten durch den<br>
     Minister für Kultus, Jugend und Sport<br>
