@@ -10,8 +10,8 @@ layout: Impressum
     Minister für Kultus, Jugend und Sport<br>
     Schlossplatz 4<br>
     70173 Stuttgart<br>
-    Telefon: 0711 279-0<br>
-    E-Mail: poststelle@km.kv.bwl.de</p>
+    <i class="fa fa-phone"></i> Telefon: 0711 279-0<br>
+    <i class="fa fa-envelope"></i> E-Mail: poststelle@km.kv.bwl.de</p>
 
   <p><b>Rechtliche Hinweise</b>
   Das Layout der Homepage, die verwendeten Grafiken sowie Beiträge und Bilder sind urheberrechtlich geschützt. Die Seiten dürfen ausschließlich zum privaten Gebrauch ohne jegliche Änderung vervielfältigt werden. Eine Verbreitung von Kopien oder Auszügen ist nur mit schriftlicher Genehmigung zulässig. Anfragen bitte an den Webmaster oder das Sekretariat.</p>
