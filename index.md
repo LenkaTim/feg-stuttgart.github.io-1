@@ -26,17 +26,17 @@ layout: Startseite
   <div class="col-lg-4">
     <h2>Mint</h2>
     <p>Neues zum Netzwerk “Mathematik – Informatik – Naturwissenschaft – Technik” am FEG</p>
-    <p><a class="btn btn-primary" href="Portraut/Mint" role="button">MINT &raquo;</a></p>
+    <p><a class="btn btn-primary" href="Portrait/Mint" role="button">MINT &raquo;</a></p>
   </div>
   <div class="col-lg-4">
     <h2>Beratungslehrer</h2>
     <p>Seit diesem Schuljahr hat das FEG einen Beratungslehrer</p>
-    <p><a class="btn btn-primary" href="Portrait/Beratungslehrer" role="button">Berungslehrer &raquo;</a></p>
+    <p><a class="btn btn-primary" href="Portrait/Beratungslehrer" role="button">Beratungslehrer &raquo;</a></p>
   </div>
   <div class="col-lg-4">
     <h2>Speisepläne</h2>
     <p>Die Speisepläne für die Zeit bis Weihnachten sind online</p>
     <br>
-    <p><a class="btn btn-primary" href="Schulleben/Speiseplaene" role="button">Speisepläne &raquo;</a></p>
+    <p><a class="btn btn-primary" href="Schulleben/Speisepläne" role="button">Speisepläne &raquo;</a></p>
   </div>
 </div>
