@@ -19,6 +19,6 @@ layout: Impressum
     
   <p>Webmaster:<br>
     OStR Christian Rehm<br>
-    <i class="fa fa-envelope"></i> E-Mail: <a href="webmaster@feg-stuttgart.de">webmaster@feg-stuttgart.de</a><br>
+    <i class="fa fa-envelope"></i> E-Mail: <a href="mailto:webmaster@feg-stuttgart.de">webmaster@feg-stuttgart.de</a><br>
     Homepage-AG:<br>
-    <i class="fa fa-envelope"></i> Email: <a href="homepage@feg-stuttgart.de">homepage@feg-stuttgart.de</a></p>
+    <i class="fa fa-envelope"></i> Email: <a href="mailto:homepage@feg-stuttgart.de">homepage@feg-stuttgart.de</a></p>
