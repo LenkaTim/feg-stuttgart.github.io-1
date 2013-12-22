@@ -31,7 +31,7 @@ layout: Galerie
         <br>
       </div>
       <div class="col-lg-4">
-        <a href="http://cdn.ch.vcn/img/Galerie/Vermischtes/a4.jpg" title="Hausaufgabenbetreuung" data-gallery>
+        <a href="http://cdn.ch.vc/img/Galerie/Vermischtes/a4.jpg" title="Hausaufgabenbetreuung" data-gallery>
           <img src="http://cdn.ch.vc/img/Galerie/Vermischtes/min/a4.jpg" alt="Hausaufgabenbetreuung">
         </a>
         <p>Bei der Hausaufgabenbetreuung</p>
