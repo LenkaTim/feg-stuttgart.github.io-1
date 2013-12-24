@@ -10,7 +10,7 @@ layout: Startseite
 		Irgendeine Einleitung halt, denkt euch was aus....
 	</p>
 	<p>
-		<a class="btn btn-lg btn-success" href="" role="button">*Wichtiger Link*</a>
+		<a class="btn btn-lg btn-success" role="button">*Wichtiger Link*</a>
 	</p>
 </div>
 
@@ -29,7 +29,7 @@ layout: Startseite
 		</p>
 		<br>
 		<p>
-			<a class="btn btn-primary" href="#/Schulleben/Termine/Aktuell" role="button">Termine &raquo;</a>
+			<a class="btn btn-primary" role="button">Termine &raquo;</a>
 		</p>
 	</div>
 	<div class="col-lg-4">
@@ -38,7 +38,7 @@ layout: Startseite
 			Neues zum Netzwerk “Mathematik – Informatik – Naturwissenschaft – Technik” am FEG
 		</p>
 		<p>
-			<a class="btn btn-primary" href="#/Portrait/Mint" role="button">MINT &raquo;</a>
+			<a class="btn btn-primary" role="button">MINT &raquo;</a>
 		</p>
 	</div>
 	<div class="col-lg-4">
@@ -47,7 +47,7 @@ layout: Startseite
 			Seit diesem Schuljahr hat das FEG einen Beratungslehrer
 		</p>
 		<p>
-			<a class="btn btn-primary" href="#/Portrait/Beratungslehrer" role="button">Beratungslehrer &raquo;</a>
+			<a class="btn btn-primary" role="button">Beratungslehrer &raquo;</a>
 		</p>
 	</div>
 	<div class="col-lg-4">
@@ -57,7 +57,7 @@ layout: Startseite
 		</p>
 		<br>
 		<p>
-			<a class="btn btn-primary" href="#/Schulleben/Speisepläne" role="button">Speisepläne &raquo;</a>
+			<a class="btn btn-primary" role="button">Speisepläne &raquo;</a>
 		</p>
 	</div>
 </div>
