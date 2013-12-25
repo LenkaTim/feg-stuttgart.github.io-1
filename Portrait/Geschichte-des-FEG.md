@@ -1,6 +1,6 @@
 ---
 title: Geschichte-des-FEG
-layout: Portrait
+layout: Portrait_Geschichte-des-FEG
 ---
 <div id="content">
   
