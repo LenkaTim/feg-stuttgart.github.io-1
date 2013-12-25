@@ -51,8 +51,12 @@ layout: Ehemalige
   www.alte-fegler.de mit geschlossenem Bereich für die Mitglieder oder andere Veranstaltungen
 </li>
 <li>
-  Information der Mitglieder über das Schulleben durch die Jahrgangsschrift, den FEG-VereinsNewsletter und die Vereins-Homepage >
-  www.alte-fegler.de.
+  Information der Mitglieder über das Schulleben durch die Jahrgangsschrift, den FEG-VereinsNewsletter und die Vereins-Homepage
+  <a href="www.alte-fegler.de">
+    <i class="fa fa-external-link">
+    </i>
+    www.alte-fegler.de
+  </a>
 </li>
 <li>
   Förderung von Netzwerken zwischen Vereinsmitgliedern und jetzigen Schülerinnen und Schülern des FEGs durch KEEN, das Kompetenznetzwerk der Eltern und Ehemaligen am FEG, das z.B. Kontakte vermittelt für Praktika usw.
@@ -99,4 +103,5 @@ layout: Ehemalige
   </a>
   <br>
   Bankverbindung: Konto Nr. 2 180 409, Landesbank Baden-Württemberg (BLZ 600 501 01)
+  
   
