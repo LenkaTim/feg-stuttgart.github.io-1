@@ -15,15 +15,15 @@ layout: Portrait
   .
   <br>
   Unsere musisch begabten Schülerinnen und Schüler können ihren Interessen im 
-  <a href="../schulleben/ustchor.html">
+  <a href="/Schulleben/Unterstufenchor/">
     &gt; Chor
   </a>
   , im Orchester, in der 
-  <a href="../schulleben/bigband.html">
+  <a href="/Schulleben/Bigband/">
     &gt; FEG-Big Band
   </a>
   oder in der 
-  <a href="../schulleben/theater.html">
+  <a href="/Schulleben/Theater/">
     &gt; Theater
   </a>
   - und in der Tanz-AG nachgehen.
