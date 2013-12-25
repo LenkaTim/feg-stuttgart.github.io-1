@@ -40,7 +40,7 @@ layout: Portrait
   <br>
   Einladung: 
   <a href="http://cdn.ch.vc/pdf/FEG-Forum.pdf" target="_blank">
-    <i class="fa fa-external-link">
+    <i class="fa fa-cloud-download">
     </i>
     Einladung
   </a>
