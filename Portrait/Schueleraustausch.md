@@ -47,19 +47,25 @@ layout: Portrait
       <td width="224" valign="top">
         England -&nbsp;Exeter
         <br>
-        <a href="exeter09.html">
-          &gt; Bericht vom Austausch 09
+        <a href="/Portrait/Schueleraustausch/Exeter/2008">
+          <i class="fa fa-external-link">
+          </i>
+          Bericht vom Austausch 09
         </a>
         
         <br>
         
-        <a href="exeter08.html">
-          &gt; Bericht vom Austausch 08
+        <a href="/Portrait/Schueleraustausch/Exeter/2009">
+          <i class="fa fa-external-link">
+          </i>
+          Bericht vom Austausch 08
         </a>
         <br>
         
-        <a href="exeter07.html">
-          &gt; Bericht vom Austausch 07
+        <a href="/Portrait/Schueleraustausch/Exeter/2008">
+          <i class="fa fa-external-link">
+          </i>
+          Bericht vom Austausch 07
         </a>
         <br>
         &nbsp;
@@ -94,26 +100,36 @@ layout: Portrait
         Collège Philippe de Vigneulles
         <br>
         <a href="http://www.ac-nancy-metz.fr/Pres-etab/collPhilippeDeVigneulles/" target="_blank">
-          &gt; Webseite des Collège
+          <i class="fa fa-external-link">
+          </i>
+          Webseite des Collège
         </a>
         
         <br>
-        <a href="metz10.html">
-          &gt; Bericht vom Austausch 10
+        <a href="/Portrait/Schueleraustausch/Metz/2010">
+          <i class="fa fa-external-link">
+          </i>
+          Bericht vom Austausch 10
         </a>
         <br>
-        <a href="metz09.html">
-          &gt; Bericht vom Austausch 09
+        <a href="/Portrait/Schueleraustausch/Metz/2009">
+          <i class="fa fa-external-link">
+          </i>
+          Bericht vom Austausch 09
         </a>
         <br>
         
-        <a href="metz08.html">
-          &gt; Bericht vom Austausch 08
+        <a href="/Portrait/Schueleraustausch/Metzt/2008">
+          <i class="fa fa-external-link">
+          </i>
+          Bericht vom Austausch 08
         </a>
         <br>
         
-        <a href="metz07.html">
-          &gt; Bericht vom Austausch 07
+        <a href="/Portrait/Schueleraustausch/Metz/2007">
+          <i class="fa fa-external-link">
+          </i>
+          Bericht vom Austausch 07
         </a>
         <br>
         &nbsp;
@@ -145,21 +161,29 @@ layout: Portrait
         Mayoor          School in Ajmer
         <br>
         <a href="http://www.indien2013.de/index.php?test1" target="_blank">
-          &gt; Webseite zum Austausch 13
+          <i class="fa fa-external-link">
+          </i>
+          Webseite zum Austausch 13
         </a>
         <br>
         <a href="indien11.html">
-          &gt; Bericht vom Austausch 11
+          <i class="/Portrait/Schueleraustausch/Indien/2011">
+          </i>
+          Bericht vom Austausch 11
         </a>
         
         <br>
-        <a href="indien10.html">
-          &gt; Bericht vom Austausch 10
+        <a href="/Portrait/Schueleraustausch/Indien/2010">
+          <i class="fa fa-external-link">
+          </i>
+          Bericht vom Austausch 10
         </a>
         <br>
         
-        <a href="indien09.html">
-          &gt; Bericht vom Austausch 09
+        <a href="/Portrait/Schueleraustausch/Indien/2009">
+          <i class="fa fa-external-link">
+          </i>
+          Bericht vom Austausch 09
         </a>
         
         <br>
@@ -176,7 +200,9 @@ layout: Portrait
         im Winter nach Indien
         <br>
         <a href="http://www.mayoorschool.org" target="_blank">
-          &gt; Mayoor School
+          <i class="fa fa-external-link">
+          </i>
+          Mayoor School
         </a>
         <br>
       </td>
@@ -200,15 +226,21 @@ layout: Portrait
         High School in Laurel Valley
         <br>
         <a href="usa11.html">
-          &gt; Bericht vom Austausch 2011
+          <i class="fa fa-external-link">
+          </i>
+          Bericht vom Austausch 2011
         </a>
         <br>
         <a href="usa09.html">
-          &gt; Bericht vom Austausch 2009
+          <i class="fa fa-external-link">
+          </i>
+          Bericht vom Austausch 2009
         </a>
         <br>
         <a target="_blank" href="http://feg.bw.lo-net2.de/usa/">
-          &gt; Schüler-Webseite vom Austausch 07
+          <i class="fa fa-external-link">
+          </i>
+          Schüler-Webseite vom Austausch 07
         </a>
       </td>
       
@@ -223,31 +255,25 @@ layout: Portrait
   </tbody>
 </table>
 <br>
-Außerdem findet regelmäßig im Juli für Schüler der Klassen 9 eine einwöchige Londonfahrt statt.
-<br>
-<a href="london10.html">
-  &gt; Bericht der Londonfahrt 2010
-</a>
-<br>
-<a href="london09.html">
-  &gt; Bericht der Londonfahrt 2009
-</a>
-<br>
-<a href="london08.html">
-  &gt; Bericht der Londonfahrt 2008
-</a>
-<br>
-<br>
-↑
-<a href="#nachoben">
-  nach oben
-</a>
-| ←
-<a href="javascript:history.back()" onmouseover="{window.status='Zurück'; return true;}">
-  zurück
-</a>
-<br>
-<br>
+
 <p>
-  &nbsp;
+  Außerdem findet regelmäßig im Juli für Schüler der Klassen 9 eine einwöchige Londonfahrt statt.
+  <br>
+  <a href="/Portrait/London/2010">
+    <i class="fa fa-external-link">
+    </i>
+    Bericht der Londonfahrt 2010
+  </a>
+  <br>
+  <a href="/Portrait/London/2009">
+    <i class="fa fa-external-link">
+    </i>
+    Bericht der Londonfahrt 2009
+  </a>
+  <br>
+  <a href="/Portrait/London/2008">
+    <i class="fa fa-external-link">
+    </i>
+    Bericht der Londonfahrt 2008
+  </a>
 </p>
