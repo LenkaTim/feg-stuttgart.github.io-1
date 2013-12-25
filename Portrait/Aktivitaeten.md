@@ -4,9 +4,9 @@ layout: Portrait
 ---
 
 
-<h1>
+<h3>
   Außerunterrichtliche Aktivitäten
-</h1>
+</h3>
 <p>
   Partnerschulen in Großbritannien, Frankreich,  den USA und Indien ermöglichen uns einen regelmäßigen 
   <a href="/Portrait/Austausch/">
