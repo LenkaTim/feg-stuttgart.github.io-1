@@ -14,7 +14,7 @@ layout: Portrait
   
   <p>
     Gerhard Schlecht schreibt über 
-    <a href="gsgs.html">
+    <a href="/Portrait/Geschichte-des-FEG/1/">
       <i class="fa fa-external-link">
       </i>
       die Schulgebäude
@@ -23,7 +23,7 @@ layout: Portrait
     FEG
     <br>
     Dr. Werner Abelein schreibt über 
-    <a href="gsab1.html">
+    <a href="/Portrait/Geschichte-des-FEG/2/">
       <i class="fa fa-external-link">
       </i>
       die Geschichte
@@ -31,4 +31,5 @@ layout: Portrait
     </a>
     von den Anfängen 1796 bis heute
   </p>
+  
   
