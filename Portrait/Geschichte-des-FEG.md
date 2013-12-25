@@ -15,15 +15,20 @@ layout: Portrait
   <p>
     Gerhard Schlecht schreibt über 
     <a href="gsgs.html">
-      &gt; die Schulgebäude
+      <i class="fa fa-external-link">
+      </i>
+      die Schulgebäude
     </a>
     des
     FEG
     <br>
     Dr. Werner Abelein schreibt über 
     <a href="gsab1.html">
-      &gt; die Geschichte
+      <i class="fa fa-external-link">
+      </i>
+      die Geschichte
       der Schule
     </a>
     von den Anfängen 1796 bis heute
   </p>
+  
