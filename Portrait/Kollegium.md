@@ -10,7 +10,7 @@ Im Schuljahr 2013/2014 unterrichten rund 50 Lehrerinnen und Lehrer am Friedrich-
 <br>
 <br>
 
-<img src="http://cdn.ch.vc/img/Portrait/Kollegium.jpg">
+<img src="http://cdn.ch.vc/img/Portrait/kollegium.jpg">
 (Das Kollegium im Schuljahr 2012/13, ein aktuelles Bild wird in den kommenden Wochen erstellt)
 <br>
   
