@@ -38,45 +38,45 @@ in einer sozialen Einrichtung sensibilisiert unsere Schüler für die Belange an
 
 </p>
 Ausflüge, Exkursionen, unser 
-<a href="skilandheim11.html">
+<a href="/Portrait/Skilandheim/">
   &gt; Skilandheim
 </a>
 in
 Klasse 6, die 
-<a href="london11.html">
+<a href="/Portrait/London/">
   &gt; London-Fahrt
 </a>
 in Klasse 9 und
 die Studienfahrten in Klasse 12 ins europäische Ausland (z.B. 
-<a href="../schulleben/stfamsterdam11.html">
+<a href="/Schulleben/Studienfarten/Amsterdam/">
   &gt; Amsterdam
 </a>
 , 
-<a href="../schulleben/stfbarcelona.html">
+<a href="/Schulleben/Studienfarten/Barcelona/">
   &gt; Barcelona
 </a>
 , 
-<a href="../schulleben/stfwarschau.html">
+<a href="/Schulleben/Studienfarten/Warschau/">
   &gt; Warschau
 </a>
 , 
-<a href="../schulleben/stfrom11.html">
+<a href="/Schulleben/Studienfarten/Rom/">
   &gt; Rom
 </a>
 ,
-<a href="../schulleben/stfistanbul10.html">
+<a href="/Schulleben/Studienfarten/Istanbul/">
   &gt; Istanbul
 </a>
 , 
-<a href="../schulleben/stfberlin.html">
+<a href="/Schulleben/Studienfarten/Berlin/">
   &gt; Berlin
 </a>
 , 
-<a href="../schulleben/stfkopenhagen10.html">
+<a href="/Schulleben/Studienfarten/Kopenhagen/">
   &gt; Kopenhagen
 </a>
 und 
-<a href="../schulleben/stfprag10.html">
+<a href="/Schulleben/Studienfarten/Prag/">
   &gt; Prag
 </a>
 )
