@@ -17,6 +17,7 @@ layout: Portrait
   </a>
   .
   <br>
+  
   Unsere musisch begabten Schülerinnen und Schüler können ihren Interessen im 
   <a href="/Schulleben/Unterstufenchor/">
     <i class="fa fa-external-link">
