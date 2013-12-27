@@ -53,8 +53,8 @@ layout: Galerie
 			<br>
 		</div>
 		<div class="col-lg-4">
-			<a href="http://cdn.ch.vc/img/Galerie/Vermischtes/high/a6.jpg" title="Künstlerische Ansicht des Schulgebäudes" data-gallery>
-			<img src="http://cdn.ch.vc/img/Galerie/Vermischtes/min/a6.jpg" alt="Künstlerische Ansicht des Schulgebäudes">
+			<a href="http://www.feg-stuttgart.de/bilder/galerie/vermischt/high/a6.jpg" title="Künstlerische Ansicht des Schulgebäudes" data-gallery>
+			<img src="http://www.feg-stuttgart.de/bilder/galerie/vermischt/a6.jpg" alt="Künstlerische Ansicht des Schulgebäudes">
 			</a>
 			<p>
 				Beim Wandertag an der Grabkapelle auf dem Rotenberg
