@@ -19,7 +19,7 @@ layout: Startseite
 	<div class="col-lg-4">
 		<h2>Aktuelle Termine</h2>
 		<p>
-			- 20.12.2013 Schulgottesdienst in der Rosenbergkirche
+			Das FEG wünscht Ihnen eine gesegnete Weihnachtszeit und einen Guten Rutsch ins neue Jahr 2014!
 		</p>
 	</div>
 	<div class="col-lg-4">
