@@ -9,7 +9,7 @@ layout: Portrait
 <p>
   Im Schuljahr 2013/2014 unterrichten rund 50 Lehrerinnen und Lehrer am Friedrich-Eugens-Gymnasium.
 </p>
-<a href="http://www.feg-stuttgart.de/bilder/k12.jpg" title="Kollegium">
+<a href="http://www.feg-stuttgart.de/bilder/k12.jpg" title="Kollegium" data-gallery>
   <img src="http://www.feg-stuttgart.de/bilder/k12.jpg" alt="Kollegium 2012/2013">
 </a>
 <br>
