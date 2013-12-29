@@ -65,4 +65,6 @@ layout: Galerie
     </div>
   </div>
 </div>
-<script>LoadGallery();</script>
+<script type="text/javascript">
+  LoadGallery();
+</script>
