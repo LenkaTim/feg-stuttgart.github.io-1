@@ -2,6 +2,7 @@
 title: Kollegium
 layout: Portrait
 ---
+
 <h3>
   Kollegium
 </h3>
