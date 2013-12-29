@@ -11,7 +11,7 @@ layout: Impressum
 	 Schlossplatz 4<br>
 	 70173 Stuttgart<br>
 	<i class="fa fa-phone"></i> Telefon: 0711 279-0<br>
-	<i class="fa fa-envelope"></i> E-Mail: poststelle@km.kv.bwl.de
+	<a href="mailto:poststelle@km.kv.bwl.de"><i class="fa fa-envelope"></i> E-Mail: poststelle@km.kv.bwl.de</a>
 </p>
 <p>
 	<b>Rechtliche Hinweise</b>
