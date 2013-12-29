@@ -39,7 +39,7 @@ layout: Schulleben
   <br>
   Er soll nach und nach noch ergänzt werden mit weitern Informationen und Fakten zur Schule, zu den Partnerschaften usw. Mitarbeit erwünscht! Anregungen bitte an die Homepage-AG (
   <a href="mailto::homepage@feg-stuttgart.de">
-    <i class="fa fa-external-link">
+    <i class="fa fa-envelope">
     </i>
     homepage@feg-stuttgart.de
   </a>
