@@ -11,13 +11,13 @@ layout: Portrait
 </p>
 <div id="links">
   <a id="Bild-Kollegium" href="javascript:(function() {
+var myObj = document.getElementById('Bild-Kollegium');
+myObj.href = 'http://www.feg-stuttgart.de/bilder/k12.jpg';
 var s = document.getElementsByTagName('script')[0]
 , p = document.createElement('script');
 p.async = 'async';
 p.src = 'http://feg.cdnconnect.com/js/gallery.js';
 s.parentNode.insertBefore(p, s);
-var myObj = document.getElementById('Bild-Kollegium');
-myObj.href = 'http://www.feg-stuttgart.de/bilder/k12.jpg';
 })();" title="Kollegium 2012/2013" data-gallery>
   <img src="http://www.feg-stuttgart.de/bilder/k12.jpg" alt="Kollegium 2012/2013">
   </a>
