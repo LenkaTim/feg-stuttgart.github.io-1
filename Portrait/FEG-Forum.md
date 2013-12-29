@@ -22,6 +22,7 @@ layout: Portrait
     Gespräche führen, gemeinsam Ideen entwickeln, Themen anstoßen, Brainstorming...
   </strong>
 </p>
+
 <p>
   Das FEG-Forum
   bietet die Möglichkeit für alle am Schulleben Beteiligten - Kollegium und Schulleitung, Eltern und Schüler, sich zwanglos zum Gespräch und Gedankenaustausch zu treffen:
@@ -29,6 +30,7 @@ layout: Portrait
   Anstehende Themen werden von Lehrern, Eltern
   und Schülern eingebracht und spiegeln so die Gedanken, Ideen und Sorgen unserer Gemeinschaft wider. Diesen Gehör zu verschaffen und gemeinsam Lösungen zu entwickeln, soll das Ziel sein. 
 </p>
+
 <p>
   Wir freuen uns auf Ihre engagierte Teilnahme!
   <br>
@@ -52,6 +54,5 @@ layout: Portrait
     Forum
   </a>
 </p>
-<p>
   
   
