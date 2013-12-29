@@ -2,6 +2,7 @@
 title: Aktuelles
 layout: Schulleben
 ---
+
 <h3>
   Aktuelles der Rubrik Schulleben...
 </h3>
