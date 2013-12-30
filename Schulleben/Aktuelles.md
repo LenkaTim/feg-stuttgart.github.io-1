@@ -19,7 +19,7 @@ layout: Schulleben
 </p>
 <p>
   Bilder aus den vergangenen Jahren auf der 
-  <a href="http://www.feg-stuttgart.de/html/galerie/herbstfest10.html">
+  <a href="/Galerie/Herbstfest/2010/">
     <i class="fa fa-external-link">
     </i>
     Galerieseite
