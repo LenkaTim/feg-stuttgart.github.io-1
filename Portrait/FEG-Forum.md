@@ -4,7 +4,7 @@ layout: Portrait
 ---
 
 <h3>
-  FEG-Forum
+  FEG_Forum
 </h3>
 
 <p>
