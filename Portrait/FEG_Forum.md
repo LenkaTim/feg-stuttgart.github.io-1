@@ -41,7 +41,7 @@ layout: Portrait
   Nächster Termin: Montag,18. November 2013 um 19.30 Uhr im Schülerhaus
   <br>
   Einladung: 
-  <a href="http://cdn.ch.vc/pdf/FEG-Forum.pdf" target="_blank">
+  <a href="http://feg.cdnconnect.com/pdf/FEG-Forum.pdf" target="_blank">
     <i class="fa fa-cloud-download">
     </i>
     Einladung
