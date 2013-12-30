@@ -10,7 +10,7 @@ layout: Portrait
 
 <p>
   Partnerschulen in Großbritannien, Frankreich,  den USA und Indien ermöglichen uns einen regelmäßigen 
-  <a href="/Portrait/Austausch/">
+  <a href="#/Portrait/Austausch/">
     <i class="fa fa-external-link">
     </i>
     Schüleraustausch
@@ -19,19 +19,19 @@ layout: Portrait
   <br>
   
   Unsere musisch begabten Schülerinnen und Schüler können ihren Interessen im 
-  <a href="/Schulleben/Unterstufenchor/">
+  <a href="#/Schulleben/Unterstufenchor/">
     <i class="fa fa-external-link">
     </i>
     Chor
   </a>
   , im Orchester, in der 
-  <a href="/Schulleben/Bigband/">
+  <a href="#/Schulleben/Bigband/">
     <i class="fa fa-external-link">
     </i>
     FEG-Big Band
   </a>
   oder in der 
-  <a href="/Schulleben/Theater/">
+  <a href="#/Schulleben/Theater/">
     <i class="fa fa-external-link">
     </i>
     Theater
@@ -41,7 +41,7 @@ layout: Portrait
 
 <p>
   Ein einwöchiges 
-  <a href="/Schulleben/Sozialpraktikum/2009/">
+  <a href="#/Schulleben/Sozialpraktikum/2009/">
     <i class="fa fa-external-link">
     </i>
     Praktikum
@@ -51,63 +51,63 @@ layout: Portrait
 
 <p>
   Ausflüge, Exkursionen, unser 
-  <a href="/Portrait/Skilandheim/">
+  <a href="#/Portrait/Skilandheim/">
     <i class="fa fa-external-link">
     </i>
     Skilandheim
   </a>
   in
   Klasse 6, die 
-  <a href="/Portrait/London/">
+  <a href="#/Portrait/London/">
     <i class="fa fa-external-link">
     </i>
     London-Fahrt
   </a>
   in Klasse 9 und
   die Studienfahrten in Klasse 12 ins europäische Ausland (z.B. 
-  <a href="/Schulleben/Studienfarten/Amsterdam/">
+  <a href="#/Schulleben/Studienfarten/Amsterdam/">
     <i class="fa fa-external-link">
     </i>
     Amsterdam
   </a>
   , 
-  <a href="/Schulleben/Studienfarten/Barcelona/">
+  <a href="#/Schulleben/Studienfarten/Barcelona/">
     <i class="fa fa-external-link">
     </i>
     Barcelona
   </a>
   , 
-  <a href="/Schulleben/Studienfarten/Warschau/">
+  <a href="#/Schulleben/Studienfarten/Warschau/">
     <i class="fa fa-external-link">
     </i>
     Warschau
   </a>
   , 
-  <a href="/Schulleben/Studienfarten/Rom/">
+  <a href="#/Schulleben/Studienfarten/Rom/">
     <i class="fa fa-external-link">
     </i>
     Rom
   </a>
   ,
-  <a href="/Schulleben/Studienfarten/Istanbul/">
+  <a href="#/Schulleben/Studienfarten/Istanbul/">
     <i class="fa fa-external-link">
     </i>
     Istanbul
   </a>
   , 
-  <a href="/Schulleben/Studienfarten/Berlin/">
+  <a href="#/Schulleben/Studienfarten/Berlin/">
     <i class="fa fa-external-link">
     </i>
     Berlin
   </a>
   , 
-  <a href="/Schulleben/Studienfarten/Kopenhagen/">
+  <a href="#/Schulleben/Studienfarten/Kopenhagen/">
     <i class="fa fa-external-link">
     </i>
     Kopenhagen
   </a>
   und 
-  <a href="/Schulleben/Studienfarten/Prag/">
+  <a href="#/Schulleben/Studienfarten/Prag/">
     <i class="fa fa-external-link">
     </i>
     Prag
