@@ -1,5 +1,5 @@
 ---
-title: FEG-Forum
+title: FEG_Forum
 layout: Portrait
 ---
 
