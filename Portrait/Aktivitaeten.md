@@ -41,7 +41,7 @@ layout: Portrait
 
 <p>
   Ein einwöchiges 
-  <a href="../schulleben/sozialpraktikum09.html">
+  <a href="/Schulleben/Sozialpraktikum/2009/">
     <i class="fa fa-external-link">
     </i>
     Praktikum
