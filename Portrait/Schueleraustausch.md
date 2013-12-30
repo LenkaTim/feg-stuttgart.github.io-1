@@ -47,7 +47,7 @@ layout: Portrait
       <td width="224" valign="top">
         England -&nbsp;Exeter
         <br>
-        <a href="/Portrait/Schueleraustausch/Exeter/2008">
+        <a href="#/Portrait/Schueleraustausch/Exeter/2008">
           <i class="fa fa-external-link">
           </i>
           Bericht vom Austausch 09
@@ -55,14 +55,14 @@ layout: Portrait
         
         <br>
         
-        <a href="/Portrait/Schueleraustausch/Exeter/2009">
+        <a href="#/Portrait/Schueleraustausch/Exeter/2009">
           <i class="fa fa-external-link">
           </i>
           Bericht vom Austausch 08
         </a>
         <br>
         
-        <a href="/Portrait/Schueleraustausch/Exeter/2008">
+        <a href="#/Portrait/Schueleraustausch/Exeter/2008">
           <i class="fa fa-external-link">
           </i>
           Bericht vom Austausch 07
@@ -106,27 +106,27 @@ layout: Portrait
         </a>
         
         <br>
-        <a href="/Portrait/Schueleraustausch/Metz/2010">
+        <a href="#/Portrait/Schueleraustausch/Metz/2010">
           <i class="fa fa-external-link">
           </i>
           Bericht vom Austausch 10
         </a>
         <br>
-        <a href="/Portrait/Schueleraustausch/Metz/2009">
+        <a href="#/Portrait/Schueleraustausch/Metz/2009">
           <i class="fa fa-external-link">
           </i>
           Bericht vom Austausch 09
         </a>
         <br>
         
-        <a href="/Portrait/Schueleraustausch/Metzt/2008">
+        <a href="#/Portrait/Schueleraustausch/Metzt/2008">
           <i class="fa fa-external-link">
           </i>
           Bericht vom Austausch 08
         </a>
         <br>
         
-        <a href="/Portrait/Schueleraustausch/Metz/2007">
+        <a href="#/Portrait/Schueleraustausch/Metz/2007">
           <i class="fa fa-external-link">
           </i>
           Bericht vom Austausch 07
@@ -166,21 +166,21 @@ layout: Portrait
           Webseite zum Austausch 13
         </a>
         <br>
-        <a href="indien11.html">
-          <i class="/Portrait/Schueleraustausch/Indien/2011">
+        <a href="#/Portrait/Schueleraustausch/Indien/2011">
+          <i class="fa fa-external-link">
           </i>
           Bericht vom Austausch 11
         </a>
         
         <br>
-        <a href="/Portrait/Schueleraustausch/Indien/2010">
+        <a href="#/Portrait/Schueleraustausch/Indien/2010">
           <i class="fa fa-external-link">
           </i>
           Bericht vom Austausch 10
         </a>
         <br>
         
-        <a href="/Portrait/Schueleraustausch/Indien/2009">
+        <a href="#/Portrait/Schueleraustausch/Indien/2009">
           <i class="fa fa-external-link">
           </i>
           Bericht vom Austausch 09
@@ -225,13 +225,13 @@ layout: Portrait
         <br>
         High School in Laurel Valley
         <br>
-        <a href="usa11.html">
+        <a href="#/Portrait/Schueleraustausch/USA/2011">
           <i class="fa fa-external-link">
           </i>
           Bericht vom Austausch 2011
         </a>
         <br>
-        <a href="usa09.html">
+        <a href="#/Portrait/Schueleraustausch/USA/2009">
           <i class="fa fa-external-link">
           </i>
           Bericht vom Austausch 2009
@@ -259,19 +259,19 @@ layout: Portrait
 <p>
   Außerdem findet regelmäßig im Juli für Schüler der Klassen 9 eine einwöchige Londonfahrt statt.
   <br>
-  <a href="/Portrait/London/2010">
+  <a href="#/Portrait/London/2010">
     <i class="fa fa-external-link">
     </i>
     Bericht der Londonfahrt 2010
   </a>
   <br>
-  <a href="/Portrait/London/2009">
+  <a href="#/Portrait/London/2009">
     <i class="fa fa-external-link">
     </i>
     Bericht der Londonfahrt 2009
   </a>
   <br>
-  <a href="/Portrait/London/2008">
+  <a href="#/Portrait/London/2008">
     <i class="fa fa-external-link">
     </i>
     Bericht der Londonfahrt 2008
