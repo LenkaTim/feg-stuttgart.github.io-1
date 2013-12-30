@@ -3,7 +3,6 @@ title: Vermischtes
 layout: Galerie
 ---
 
-
 <h3>
   Vermischtes
 </h3>
@@ -66,5 +65,5 @@ layout: Galerie
   </div>
 </div>
 <script type="text/javascript">
-  window.setTimeout("LoadGallery()", 500);
+  LoadGallery();
 </script>
