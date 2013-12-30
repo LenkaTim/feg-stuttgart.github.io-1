@@ -9,7 +9,7 @@ layout: Portrait
 
 <p>
   In der  Mensa "s-Bar" im Erdgeschoss können unsere SchülerInnen preiswert zu 
-  <a href="/Schulleben/S-Bar/">
+  <a href="#/Schulleben/S-Bar/">
     <i class="fa fa-external-link">
     </i>
     Mittag essen
@@ -19,7 +19,7 @@ layout: Portrait
 
 <p>
   Im oberen Stock können sie selbstständig Hausaufgaben (
-  <a href="/Schulleben/Hausaufgabenbetreuuung/">
+  <a href="#/Schulleben/Hausaufgabenbetreuuung/">
     <i class="fa fa-external-link">
     </i>
     Hausaufgabenbetreuung
