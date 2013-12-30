@@ -1,5 +1,5 @@
 ---
-title: Geschichte-des-FEG
+title: Geschichte_des_FEG
 layout: Portrait
 ---
 
