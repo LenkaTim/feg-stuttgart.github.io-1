@@ -66,5 +66,5 @@ layout: Galerie
   </div>
 </div>
 <script type="text/javascript">
-  LoadGallery();
+  window.setTimeout("LoadGallery()", 1000);
 </script>
