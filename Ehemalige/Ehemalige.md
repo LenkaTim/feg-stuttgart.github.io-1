@@ -52,7 +52,7 @@ layout: Ehemalige
 </li>
 <li>
   Information der Mitglieder über das Schulleben durch die Jahrgangsschrift, den FEG-VereinsNewsletter und die Vereins-Homepage
-  <a href="www.alte-fegler.de">
+  <a href="http://www.alte-fegler.de">
     <i class="fa fa-external-link">
     </i>
     www.alte-fegler.de
