@@ -15,7 +15,7 @@ layout: Galerie
       <p>
         Beim Wandertag an der Grabkapelle auf dem Rotenberg
       </p>
-      <br>
+      <br/>
     </div>
     <div class="col-lg-4">
       <a href="http://www.feg-stuttgart.de/bilder/galerie/vermischt/high/a2.jpg" title="Fußballmannschaft des FEG" data-gallery>
@@ -24,7 +24,7 @@ layout: Galerie
       <p>
         Fußballmannschaft des FEG für "Jugend trainiert für Olympia"
       </p>
-      <br>
+      <br/>
     </div>
     <div class="col-lg-4">
       <a href="http://www.feg-stuttgart.de/bilder/galerie/vermischt/high/a3.jpg" title="Präsentation der neuen Trikots" data-gallery>
@@ -33,7 +33,7 @@ layout: Galerie
       <p>
         Präsentation der neuen Trikots der Fußballmanschaft
       </p>
-      <br>
+      <br/>
     </div>
     <div class="col-lg-4">
       <a href="http://www.feg-stuttgart.de/bilder/galerie/vermischt/high/a4.jpg" title="Hausaufgabenbetreuung" data-gallery>
@@ -42,7 +42,7 @@ layout: Galerie
       <p>
         Bei der Hausaufgabenbetreuung
       </p>
-      <br>
+      <br/>
     </div>
     <div class="col-lg-4">
       <a href="http://www.feg-stuttgart.de/bilder/galerie/vermischt/high/a5.jpg" title="Der Computerraum nach der Neuausstattung" data-gallery>
@@ -51,7 +51,7 @@ layout: Galerie
       <p>
         Der Computerraum nach der Neuausstattung
       </p>
-      <br>
+      <br/>
     </div>
     <div class="col-lg-4">
       <a href="http://www.feg-stuttgart.de/bilder/galerie/vermischt/high/a6.jpg" title="Künstlerische Ansicht des Schulgebäudes" data-gallery>
@@ -60,7 +60,7 @@ layout: Galerie
       <p>
         Beim Wandertag an der Grabkapelle auf dem Rotenberg
       </p>
-      <br>
+      <br/>
     </div>
   </div>
 </div>
