@@ -57,7 +57,7 @@ layout: Startseite
   </div>
   <div class="col-lg-4">
     <h2>
-      <i class="fa fa-external-link"></i> Beratungslehrer
+      Beratungslehrer
     </h2>
     <p>
       Seit diesem Schuljahr hat das FEG einen Beratungslehrer
