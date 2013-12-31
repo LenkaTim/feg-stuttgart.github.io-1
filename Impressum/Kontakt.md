@@ -25,8 +25,10 @@ layout: Impressum
   <br>
   <i class="fa fa-envelope">
   </i>
+  
+  E-Mail Rektorat: 
   <a href="mailto:feg@stuttgart.de">
-    E-Mail Rektorat: feg@stuttgart.de
+    feg@stuttgart.de
   </a>
   <br>
   Schulleiter: OStD Martin Dupper
@@ -45,15 +47,19 @@ layout: Impressum
   
   <i class="fa fa-envelope">
   </i>
+  
+  E-Mail: 
   <a href="mailto:webmaster@feg-stuttgart.de">
-    E-Mail: webmaster@feg-stuttgart.de
+    webmaster@feg-stuttgart.de
   </a>
   <br>
   Homepage-AG:
   <br>
   <i class="fa fa-envelope">
   </i>
+  
+  Email: 
   <a href="mailto:homepage@feg-stuttgart.de">
-    Email: homepage@feg-stuttgart.de
+    homepage@feg-stuttgart.de
   </a>
 </p>
