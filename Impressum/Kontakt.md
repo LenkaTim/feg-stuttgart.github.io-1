@@ -23,9 +23,9 @@ layout: Impressum
     Fax: 0711/216-60980
   </b>
   <br>
+  <i class="fa fa-envelope">
+  </i>
   <a href="mailto:feg@stuttgart.de">
-    <i class="fa fa-envelope">
-    </i>
     E-Mail Rektorat: feg@stuttgart.de
   </a>
   <br>
@@ -42,17 +42,18 @@ layout: Impressum
   <br>
   OStR Christian Rehm
   <br>
+  
+  <i class="fa fa-envelope">
+  </i>
   <a href="mailto:webmaster@feg-stuttgart.de">
-    <i class="fa fa-envelope">
-    </i>
     E-Mail: webmaster@feg-stuttgart.de
   </a>
   <br>
   Homepage-AG:
   <br>
+  <i class="fa fa-envelope">
+  </i>
   <a href="mailto:homepage@feg-stuttgart.de">
-    <i class="fa fa-envelope">
-    </i>
     Email: homepage@feg-stuttgart.de
   </a>
 </p>
