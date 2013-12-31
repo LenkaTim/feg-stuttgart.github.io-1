@@ -23,10 +23,11 @@ layout: Impressum
     Fax: 0711/216-60980
   </b>
   <br>
-  E-Mail Rektorat: 
   <a href="mailto:feg@stuttgart.de">
     <i class="fa fa-envelope">
     </i>
+    E-Mail Rektorat: 
+    
     feg@stuttgart.de
   </a>
   <br>
