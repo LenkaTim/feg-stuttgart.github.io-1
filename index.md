@@ -38,7 +38,9 @@ layout: Startseite
     <br>
     <p>
       <a class="btn btn-primary" role="button">
-        <i class="fa fa-external-link"></i> Termine
+        <i class="fa fa-external-link">
+        </i>
+        Termine
       </a>
     </p>
   </div>
@@ -51,7 +53,9 @@ layout: Startseite
     </p>
     <p>
       <a class="btn btn-primary" role="button">
-        <i class="fa fa-external-link"></i> MINT
+        <i class="fa fa-external-link">
+        </i>
+        MINT
       </a>
     </p>
   </div>
@@ -64,7 +68,9 @@ layout: Startseite
     </p>
     <p>
       <a class="btn btn-primary" role="button">
-        <i class="fa fa-external-link"></i> Beratungslehrer
+        <i class="fa fa-external-link">
+        </i>
+        Beratungslehrer
       </a>
     </p>
   </div>
@@ -78,7 +84,9 @@ layout: Startseite
     <br>
     <p>
       <a class="btn btn-primary" role="button">
-        <i class="fa fa-external-link"></i> Speisepläne
+        <i class="fa fa-external-link">
+        </i>
+        Speisepläne
       </a>
     </p>
   </div>
