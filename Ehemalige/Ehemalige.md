@@ -3,7 +3,6 @@ title: Ehemalige
 layout: Ehemalige
 ---
 
-
 <h3>
   Verein der Ehemaligen und Freunde des Friedrich-Eugens-Gymnasiums e. V.
 </h3>
@@ -105,7 +104,3 @@ layout: Ehemalige
   </a>
   <br/>
   Bankverbindung: Konto Nr. 2 180 409, Landesbank Baden-Württemberg (BLZ 600 501 01)
-  
-  
-  
-  
