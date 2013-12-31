@@ -47,9 +47,12 @@ layout: Ehemalige
 </li>
 <li>
   Pflege des Zusammenhaltes der Vereinsmitglieder durch die jährliche Mitgliederversammlung, die vereinseigene Homepage 
-  <i class="fa fa-external-link">
-  </i>
-  www.alte-fegler.de mit geschlossenem Bereich für die Mitglieder oder andere Veranstaltungen
+  <a href="http://www.alte-fegler.de">
+    <i class="fa fa-external-link">
+    </i>
+    www.alte-fegler.de
+  </a>
+  mit geschlossenem Bereich für die Mitglieder oder andere Veranstaltungen
 </li>
 <li>
   Information der Mitglieder über das Schulleben durch die Jahrgangsschrift, den FEG-VereinsNewsletter und die Vereins-Homepage
