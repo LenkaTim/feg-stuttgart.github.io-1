@@ -3,7 +3,6 @@ title: Verein
 layout: Ehemalige
 ---
 
-
 <h3>
   Verein der ehemaligen Schüler und der Freunde des Friedrich-Eugens-Gymnasiums Stuttgart
 </h3>
@@ -11,57 +10,57 @@ layout: Ehemalige
   <b>
     Vorsitzende:
   </b>
-  <br>
+  <br/>
   Dr. Sabine Ladner-Merz
 </p>
 <p>
   <b>
     Stv. Vorsitzender:
   </b>
-  <br>
+  <br/>
   OStD Martin Dupper, Schulleiter
 </p>
 <p>
   <b>
     Kassier:
   </b>
-  <br>
+  <br/>
   Uwe R. Hähner, ehemaliger Schüler
 </p>
 <p>
   <b>
     Schriftführer:
   </b>
-  <br>
+  <br/>
   Dr. Detlef Greiner, ehemaliger Schüler
 </p>
 <p>
   <b>
     Beisitzer:
   </b>
-  <br>
+  <br/>
   Klaus Fruth 
-  <br>
+  <br/>
   Andreas Heckt 
-  <br>
+  <br/>
   Robert Stricker 
-  <br>
+  <br/>
   Florian Löthe 
-  <br>
+  <br/>
   Regine Lahusen
 </p>
 <p>
   <b>
     Mitgliederdate:i
   </b>
-  <br>
+  <br/>
   Andreas Heckt
 </p>
 <p>
   <b>
     Jahrbuch:
   </b>
-  <br>
+  <br/>
   S. Ladner-Merz
 </p>
 <p>
@@ -71,14 +70,14 @@ layout: Ehemalige
   <b>
     Kontakt:
   </b>
-  <br>
+  <br/>
   E-Mail: 
   <a href="mailto::info@alto-fegler.de">
     <i class="fa fa-envelope">
     </i>
     info@alte-fegler.de
   </a>
-  <br>
+  <br/>
   Homepage: 
   <a href="http://www.alte-fegler.de">
     <i class="fa fa-external-link">
