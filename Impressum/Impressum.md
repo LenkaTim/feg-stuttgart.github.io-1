@@ -22,10 +22,12 @@ layout: Impressum
   </i>
   Telefon: 0711 279-0
   <br>
+  
+  <i class="fa fa-envelope">
+  </i>
+  E-Mail: 
   <a href="mailto:poststelle@km.kv.bwl.de">
-    <i class="fa fa-envelope">
-    </i>
-    E-Mail: poststelle@km.kv.bwl.de
+    poststelle@km.kv.bwl.de
   </a>
 </p>
 <p>
