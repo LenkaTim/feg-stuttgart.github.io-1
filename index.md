@@ -35,7 +35,7 @@ layout: Startseite
     <p>
       Hier finden Sie den Terminkalender des Schuljahres:
     </p>
-    <br>
+    <br/>
     <p>
       <a class="btn btn-primary" role="button">
         <i class="fa fa-external-link">
@@ -81,7 +81,7 @@ layout: Startseite
     <p>
       Die Speisepläne für die Zeit bis Weihnachten sind online
     </p>
-    <br>
+    <br/>
     <p>
       <a class="btn btn-primary" role="button">
         <i class="fa fa-external-link">
