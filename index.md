@@ -38,7 +38,7 @@ layout: Startseite
     <br>
     <p>
       <a class="btn btn-primary" role="button">
-        Termine &raquo;
+        <i class="fa fa-external-link"></i> Termine
       </a>
     </p>
   </div>
@@ -51,20 +51,20 @@ layout: Startseite
     </p>
     <p>
       <a class="btn btn-primary" role="button">
-        MINT &raquo;
+        <i class="fa fa-external-link"></i> MINT
       </a>
     </p>
   </div>
   <div class="col-lg-4">
     <h2>
-      Beratungslehrer
+      <i class="fa fa-external-link"></i> Beratungslehrer
     </h2>
     <p>
       Seit diesem Schuljahr hat das FEG einen Beratungslehrer
     </p>
     <p>
       <a class="btn btn-primary" role="button">
-        Beratungslehrer &raquo;
+        <i class="fa fa-external-link"></i> Beratungslehrer
       </a>
     </p>
   </div>
@@ -78,7 +78,7 @@ layout: Startseite
     <br>
     <p>
       <a class="btn btn-primary" role="button">
-        Speisepläne &raquo;
+        <i class="fa fa-external-link"></i> Speisepläne
       </a>
     </p>
   </div>
