@@ -1,6 +1,6 @@
 ---
 title: Startseite
-layout: Startseite
+layout: default
 ---
 
 <!-- Jumbotron -->
