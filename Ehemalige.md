@@ -1,5 +1,4 @@
 ---
-layout:
 ---
 
 <script type="text/javascript">
