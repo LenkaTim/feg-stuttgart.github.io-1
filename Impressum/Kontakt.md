@@ -4,8 +4,6 @@ layout: Impressum
 ---
 
 <h3>
-  <i class="fa fa-envelope">
-  </i>
   Kontakt
 </h3>
 <p>
@@ -25,7 +23,12 @@ layout: Impressum
     Fax: 0711/216-60980
   </b>
   <br>
-  E-Mail Rektorat: feg@stuttgart.de
+  E-Mail Rektorat: 
+  <a href="mailto:feg@stuttgart.de">
+    <i class="fa fa-envelope">
+    </i>
+    feg@stuttgart.de
+  </a>
   <br>
   Schulleiter: OStD Martin Dupper
   <br>
@@ -40,19 +43,19 @@ layout: Impressum
   <br>
   OStR Christian Rehm
   <br>
-  <i class="fa fa-envelope">
-  </i>
   E-Mail: 
   <a href="mailto:webmaster@feg-stuttgart.de">
+    <i class="fa fa-envelope">
+    </i>
     webmaster@feg-stuttgart.de
   </a>
   <br>
   Homepage-AG:
   <br>
-  <i class="fa fa-envelope">
-  </i>
   Email: 
   <a href="mailto:homepage@feg-stuttgart.de">
+    <i class="fa fa-envelope">
+    </i>
     homepage@feg-stuttgart.de
   </a>
 </p>
