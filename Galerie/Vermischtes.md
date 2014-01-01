@@ -19,7 +19,7 @@ layout: Galerie
     </div>
     <div class="col-lg-4">
       <a href="http://www.feg-stuttgart.de/bilder/galerie/vermischt/high/a2.jpg" title="Fußballmannschaft des FEG" data-gallery>
-        <img class="img-thumbnail" style="width: 240px; height: 181px;" src="http://www.feg-stuttgart.de/bilder/galerie/vermischt/high/a2.jpg" alt="Fußballmannschaft des FEG">
+        <img class="img-thumbnail" style="width: 240px;" src="http://www.feg-stuttgart.de/bilder/galerie/vermischt/high/a2.jpg" alt="Fußballmannschaft des FEG">
       </a>
       <p>
         Fußballmannschaft des FEG für "Jugend trainiert für Olympia"
