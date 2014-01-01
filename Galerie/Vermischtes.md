@@ -10,7 +10,7 @@ layout: Galerie
   <div class="row">
     <div class="col-lg-4">
       <a href="http://www.feg-stuttgart.de/bilder/galerie/vermischt/high/a1.jpg" title="Wandertag auf dem Rotenberg" data-gallery>
-        <img src="http://www.feg-stuttgart.de/bilder/galerie/vermischt/a1.jpg" alt="Wandertag auf dem Rotenberg">
+        <img class="img-thumbnail" src="http://www.feg-stuttgart.de/bilder/galerie/vermischt/a1.jpg" alt="Wandertag auf dem Rotenberg">
       </a>
       <p>
         Beim Wandertag an der Grabkapelle auf dem Rotenberg
