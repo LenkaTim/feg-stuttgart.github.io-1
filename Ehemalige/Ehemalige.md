@@ -46,11 +46,11 @@ layout: Ehemalige
   Förderung der materiellen Ausstattung des FEGs durch Anschaffung von Geräten, wie z. B der großen Lautsprecheranlage für die Schulhofbeschallung
 </li>
 <li>
-  Pflege des Zusammenhaltes der Vereinsmitglieder durch die jährliche Mitgliederversammlung, die vereinseigene Homepage 
+  Pflege des Zusammenhaltes der Vereinsmitglieder durch die jährliche Mitgliederversammlung, die vereinseigene 
   <a href="http://www.alte-fegler.de">
     <i class="fa fa-external-link">
     </i>
-    www.alte-fegler.de
+    Homepage
   </a>
   mit geschlossenem Bereich für die Mitglieder oder andere Veranstaltungen
 </li>
