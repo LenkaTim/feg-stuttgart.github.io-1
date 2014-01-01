@@ -4,7 +4,7 @@ layout: Impressum
 ---
 
 <h3>
-  Kontakt
+  <i class="fa fa-envelope"></i>Kontakt
 </h3>
 <p>
   Das Rektoratsteam Friedrich-Eugens-Gymnasium Silberburgstr. 86
