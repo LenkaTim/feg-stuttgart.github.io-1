@@ -55,11 +55,11 @@ layout: Ehemalige
   mit geschlossenem Bereich für die Mitglieder oder andere Veranstaltungen
 </li>
 <li>
-  Information der Mitglieder über das Schulleben durch die Jahrgangsschrift, den FEG-VereinsNewsletter und die Vereins-Homepage
+  Information der Mitglieder über das Schulleben durch die Jahrgangsschrift, den FEG-VereinsNewsletter und die 
   <a href="http://www.alte-fegler.de">
     <i class="fa fa-external-link">
     </i>
-    www.alte-fegler.de
+    Vereins-Homepage
   </a>
 </li>
 <li>
