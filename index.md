@@ -21,7 +21,7 @@ jetzt = new Date();
 jetzt = jetzt.getTime();
 ausgabe = schulbeginn - jetzt;
 ausgabe = ausgabe / 1000;
-ausgabe = Math.floor( asugabe / (60 * 60 * 24));
+ausgabe = Math.floor( ausgabe / (60 * 60 * 24));
 document.write(ausgabe);
 
 </script>
