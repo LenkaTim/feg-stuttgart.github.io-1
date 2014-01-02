@@ -10,7 +10,7 @@ layout: Galerie
   <div class="row">
     <div class="col-lg-4">
       <a href="http://www.feg-stuttgart.de/bilder/galerie/vermischt/high/a1.jpg" title="Wandertag auf dem Rotenberg" data-gallery>
-        <img class="img-thumbnail" style="width: 245px;" src="http://www.feg-stuttgart.de/bilder/galerie/vermischt/a1.jpg" alt="Wandertag auf dem Rotenberg"/>
+        <img class="img-thumbnail gallery" src="http://www.feg-stuttgart.de/bilder/galerie/vermischt/a1.jpg" alt="Wandertag auf dem Rotenberg"/>
       </a>
       <p>
         Beim Wandertag an der Grabkapelle auf dem Rotenberg
@@ -19,7 +19,7 @@ layout: Galerie
     </div>
     <div class="col-lg-4">
       <a href="http://www.feg-stuttgart.de/bilder/galerie/vermischt/high/a2.jpg" title="Fußballmannschaft des FEG" data-gallery>
-        <img class="img-thumbnail" style="width: 245px;" src="http://www.feg-stuttgart.de/bilder/galerie/vermischt/a2.jpg" alt="Fußballmannschaft des FEG"/>
+        <img class="img-thumbnail gallery" src="http://www.feg-stuttgart.de/bilder/galerie/vermischt/a2.jpg" alt="Fußballmannschaft des FEG"/>
       </a>
       <p>
         Fußballmannschaft des FEG für "Jugend trainiert für Olympia"
@@ -28,7 +28,7 @@ layout: Galerie
     </div>
     <div class="col-lg-4">
       <a href="http://www.feg-stuttgart.de/bilder/galerie/vermischt/high/a3.jpg" title="Präsentation der neuen Trikots" data-gallery>
-        <img class="img-thumbnail" style="width: 245px;" src="http://www.feg-stuttgart.de/bilder/galerie/vermischt/a3.jpg" alt="Präsentation der neuen Trikots"/>
+        <img class="img-thumbnail gallery" src="http://www.feg-stuttgart.de/bilder/galerie/vermischt/a3.jpg" alt="Präsentation der neuen Trikots"/>
       </a>
       <p>
         Präsentation der neuen Trikots der Fußballmanschaft
@@ -37,7 +37,7 @@ layout: Galerie
     </div>
     <div class="col-lg-4">
       <a href="http://www.feg-stuttgart.de/bilder/galerie/vermischt/high/a4.jpg" title="Hausaufgabenbetreuung" data-gallery>
-        <img class="img-thumbnail" style="width: 245px;" src="http://www.feg-stuttgart.de/bilder/galerie/vermischt/a4.jpg" alt="Hausaufgabenbetreuung"/>
+        <img class="img-thumbnail gallery" src="http://www.feg-stuttgart.de/bilder/galerie/vermischt/a4.jpg" alt="Hausaufgabenbetreuung"/>
       </a>
       <p>
         Bei der Hausaufgabenbetreuung
@@ -46,7 +46,7 @@ layout: Galerie
     </div>
     <div class="col-lg-4">
       <a href="http://www.feg-stuttgart.de/bilder/galerie/vermischt/high/a5.jpg" title="Der Computerraum nach der Neuausstattung" data-gallery>
-        <img class="img-thumbnail" style="width: 245px;" src="http://www.feg-stuttgart.de/bilder/galerie/vermischt/a5.jpg" alt="Der Computerraum nach der Neuausstattung"/>
+        <img class="img-thumbnail gallery" src="http://www.feg-stuttgart.de/bilder/galerie/vermischt/a5.jpg" alt="Der Computerraum nach der Neuausstattung"/>
       </a>
       <p>
         Der Computerraum nach der Neuausstattung
@@ -55,7 +55,7 @@ layout: Galerie
     </div>
     <div class="col-lg-4">
       <a href="http://www.feg-stuttgart.de/bilder/galerie/vermischt/high/a6.jpg" title="Künstlerische Ansicht des Schulgebäudes" data-gallery>
-        <img class="img-thumbnail" style="width: 245px;" src="http://www.feg-stuttgart.de/bilder/galerie/vermischt/a6.jpg" alt="Künstlerische Ansicht des Schulgebäudes"/>
+        <img class="img-thumbnail gallery" src="http://www.feg-stuttgart.de/bilder/galerie/vermischt/a6.jpg" alt="Künstlerische Ansicht des Schulgebäudes"/>
       </a>
       <p>
         Beim Wandertag an der Grabkapelle auf dem Rotenberg
