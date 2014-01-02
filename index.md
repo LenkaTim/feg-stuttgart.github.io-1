@@ -13,19 +13,9 @@ layout: Startseite
   </p>
   <p>
     <a class="btn btn-lg btn-success" role="button">
-      Noch 
       <script type="text/javascript">
-schulbeginn = new Date("January 6, 2014 23:59:59 GMT+1");
-schulbeginn = schulbeginn.getTime();
-jetzt = new Date();
-jetzt = jetzt.getTime();
-ausgabe = schulbeginn - jetzt;
-ausgabe = ausgabe / 1000;
-ausgabe = Math.floor( ausgabe / (60 * 60 * 24));
-document.write(ausgabe);
-
-</script>
-      Tage bis zum Schulbeginn
+        countdown("Schulbeginn", "January 6, 2014 23:59:59 GMT+1");
+      </script>
     </a>
   </p>
 </div>
@@ -107,5 +97,3 @@ document.write(ausgabe);
   <div>
     <div>
       <div>
-        
-        
