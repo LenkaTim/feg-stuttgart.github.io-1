@@ -15,14 +15,14 @@ layout: Startseite
     <a class="btn btn-lg btn-success" role="button">
       Noch 
       <script type="text/javascript">
-        schulbeginn = new Date("January 6, 2014 23:59:59 GMT+1");
-        jetzt = new Date();
-        schulbeginn = schulbeginn.getTime();
-        jetzt = jetzt.getTime();
-        ausgabe = schulbeginn - jetzt
-        /*Math.floor((schulbeginn.getTime() - heute.getTime()) / 1000);
-        count = Math.floor(count / (60 * 60 * 24));
-        document.write(count);*/
+schulbeginn = new Date("January 6, 2014 23:59:59 GMT+1");
+schulbeginn = schulbeginn.getTime();
+jetzt = new Date();
+jetzt = jetzt.getTime();
+ausgabe = schulbeginn - jetzt;
+ausgabe = ausgabe / 1000;
+ausgabe = ausgabe / (60 * 60 * 24);
+document.write(ausgabe);
       </script>
       Tage bis zum Schulbeginn
     </a>
