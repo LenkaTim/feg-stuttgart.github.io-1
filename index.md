@@ -9,11 +9,17 @@ layout: Startseite
     Willkomen am FEG!
   </h1>
   <p class="lead">
-    Irgendeine Einleitung halt, denkt euch was aus....
+    Willkommen auf dem Internetportal des Friedrich-Eugens-Gymnasiums in Stuttgart
   </p>
   <p>
     <a class="btn btn-lg btn-success" role="button">
-      *Wichtiger Link*
+      Noch <script language="JavaScript" type="text/javascript">
+        var eventdate = new Date("January 6, 2014 23:59:59 GMT+1");
+        d=new Date();
+        count=Math.floor((eventdate.getTime()-d.getTime())/1000);
+        count=Math.floor(count/(60*60*24));
+        document.write(count);
+        </script> Tage bis zum Schulbeginn
     </a>
   </p>
 </div>
