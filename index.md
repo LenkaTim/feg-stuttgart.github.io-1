@@ -21,9 +21,10 @@ jetzt = new Date();
 jetzt = jetzt.getTime();
 ausgabe = schulbeginn - jetzt;
 ausgabe = ausgabe / 1000;
-ausgabe = ausgabe / (60 * 60 * 24);
+ausgabe = Math.floor( asugabe / (60 * 60 * 24));
 document.write(ausgabe);
-      </script>
+
+</script>
       Tage bis zum Schulbeginn
     </a>
   </p>
