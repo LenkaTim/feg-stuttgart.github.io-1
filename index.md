@@ -14,7 +14,7 @@ layout: Startseite
   <p>
     <a class="btn btn-lg btn-success" role="button">
       <script type="text/javascript">
-        countdown("Schulbeginn", "January 6, 2014 23:59:59 GMT+1");
+        countdown("zum Schulbeginn", "January 6, 2014 23:59:59 GMT+1");
       </script>
     </a>
   </p>
