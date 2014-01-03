@@ -1,0 +1,8 @@
+language: rvm
+rvm:
+  - 2.0.0
+install:
+  - get install jekyll
+script:
+  - jekyll -v
+  - jekyll build
