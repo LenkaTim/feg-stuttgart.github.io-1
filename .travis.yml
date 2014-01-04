@@ -9,4 +9,4 @@ before_script:
   - git submodule foreach git pull origin master
 script:
   - jekyll -v
-  - jekyll build
+  - jekyll build -V
