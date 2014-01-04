@@ -1,7 +1,7 @@
 feg-stuttgart.github.io
 =======================
 
-Schulwebseite des FEG
+Webseite
 
 [![Build Status](https://travis-ci.org/feg-stuttgart/feg-stuttgart.github.io.png?branch=master)](https://travis-ci.org/feg-stuttgart/feg-stuttgart.github.io)
 
