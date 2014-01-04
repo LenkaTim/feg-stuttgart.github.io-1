@@ -2,11 +2,11 @@ language: rvm
 rvm:
   - 2.0.0
 install:
-  - gem install jekyll
-  - gem install rdiscount
+  - gem install jekyll -V
+  - gem install rdiscount -V
 before_script:
-  - git submodule update --init
-  - git submodule foreach git pull origin master
+  - git submodule update --init -v 
+  - git submodule foreach git pull origin master -v
 script:
   - jekyll -v
   - jekyll build -V
