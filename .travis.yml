@@ -7,7 +7,6 @@ install:
   - gem install rdiscount -V
 before_script:
   - git --version
-  - git submodule update --init -v 
   - git submodule foreach git pull origin master -v
 script:
   - jekyll -v
