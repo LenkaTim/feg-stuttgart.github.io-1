@@ -4,6 +4,9 @@ rvm:
 install:
   - gem install jekyll
   - gem install rdiscount
+before_script:
+  - git submodule update --init
+  - git submodule foreach git pull origin master
 script:
   - jekyll -v
   - jekyll build
