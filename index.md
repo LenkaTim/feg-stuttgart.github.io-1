@@ -23,7 +23,7 @@ layout: Startseite
     <script type="text/javascript">
       var countdown_bar = document.getElementById("countdown_bar");
       var dauer = "16";
-      var width = dauer * ausgabe / "100";
+      var width = dauer / ausgabe * "100";
       countdown_bar.style = "width: " + width + "%";
 
     </script>
