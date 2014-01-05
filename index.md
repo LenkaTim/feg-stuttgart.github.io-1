@@ -17,6 +17,9 @@ layout: Startseite
         countdown("zum Schulbeginn", "January 6, 2014 23:59:59 GMT+1");
       </script>
     </a>
+<div class="progress">
+        <div class="progress-bar progress-bar-warning" role="progressbar" aria-valuenow="15" aria-valuemin="0" aria-valuemax="16"></div>
+      </div>
   </p>
 </div>
 
