@@ -17,14 +17,15 @@ layout: Startseite
         countdown("zum Schulbeginn", "January 6, 2014 23:59:59 GMT+1");
       </script>
     </a>
-    <div class="progress" id="countdown_bar">
-        <div class="progress-bar progress-bar-warning" role="progressbar" style="width: 93.75%"></div>
+    <div class="progress">
+        <div  id="countdown_bar" class="progress-bar progress-bar-warning" role="progressbar"></div>
     </div>
     <script type="text/javascript">
       var countdown_bar = document.getElementById("countdown_bar");
       var dauer = "16";
       var width = dauer * ausgabe / "100";
       countdown_bar.style = "width: " + width + "%";
+
     </script>
   </p>
 </div>
