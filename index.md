@@ -26,7 +26,7 @@ layout: Startseite
       var width = (dauer - ausgabe) * ("100" / dauer);
       countdown_bar.style.width =  width + "%";
       if (width <= "50"){
-        countdown_bar.className = "progress-bar progress-bar-sucess";
+        countdown_bar.className = "progress-bar progress-bar-info";
       }
       if (width >= "80"){
         countdown_bar.className = "progress-bar progress-bar-danger";
