@@ -18,14 +18,19 @@ layout: Startseite
       </script>
     </a>
     <div class="progress">
-        <div  id="countdown_bar" class="progress-bar progress-bar-warning" role="progressbar"></div>
+        <div id="countdown_bar" class="progress-bar progress-bar-warning" role="progressbar"></div>
     </div>
     <script type="text/javascript">
       var countdown_bar = document.getElementById("countdown_bar");
       var dauer = "16";
       var width = (dauer - ausgabe) * ("100" / dauer);
       countdown_bar.style.width =  width + "%";
-
+      if (width <= "50"){
+        countdown_bar.className = "progress-bar progress-bar-sucess";
+      }
+      if (width >= "80"){
+        countdown_bar.className = "progress-bar progress-bar-danger";
+      }
     </script>
   </p>
 </div>
