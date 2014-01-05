@@ -1,3 +1,7 @@
+---
+layout: hide
+---
+
 feg-stuttgart.github.io
 =======================
 
