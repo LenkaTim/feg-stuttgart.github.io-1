@@ -1,5 +1,5 @@
 ---
-layout: hide
+layout: README
 ---
 
 feg-stuttgart.github.io
