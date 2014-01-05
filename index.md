@@ -18,7 +18,7 @@ layout: Startseite
       </script>
     </a>
 <div class="progress">
-        <div class="progress-bar progress-bar-warning" role="progressbar" aria-valuenow="15" aria-valuemin="0" aria-valuemax="16"></div>
+        <div class="progress-bar progress-bar-warning" role="progressbar" aria-valuenow="15" aria-valuemin="0" aria-valuemax="16" style="width: 62,5%"></div>
       </div>
   </p>
 </div>
