@@ -5,9 +5,9 @@ layout: Startseite
 
 <!-- Jumbotron -->
 <div class="jumbotron">
-  <h1>
-    Willkomen am FEG!
-  </h1>
+
+# Willkomen am FEG!
+
   <p class="lead">
     Willkommen auf dem Internetportal des Friedrich-Eugens-Gymnasiums in Stuttgart
   </p>
@@ -38,17 +38,13 @@ layout: Startseite
 <!-- News -->
 <div class="row">
   <div class="col-lg-4">
-    <h2>
-      Aktuelle Termine
-    </h2>
+     ##  Aktuelle Termine
     <p>
       Das FEG wünscht Ihnen eine gesegnete Weihnachtszeit und einen Guten Rutsch ins neue Jahr 2014!
     </p>
   </div>
   <div class="col-lg-4">
-    <h2>
-      Kalender
-    </h2>
+    ## Kalender
     <p>
       Hier finden Sie den Terminkalender des Schuljahres:
     </p>
