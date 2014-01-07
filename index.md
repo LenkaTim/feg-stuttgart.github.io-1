@@ -4,7 +4,7 @@ layout: Startseite
 ---
 
 <!-- Jumbotron -->
-<div class="jumbotron">
+<div class="jumbotron" markdown=1>
 
 # Willkomen am FEG!
 
