@@ -3,19 +3,10 @@ title: FEG_Forum
 layout: Portrait
 ---
 
-<h3>
-  FEG-Forum
-</h3>
+### FEG-Forum
 
-<p>
-  Seit dem Schuljahr 2004/2005 haben wir am Friedrich-Eugens-Gymnasium  unsere Arbeitskreise eingeführt.
-  <br>
-  Die Arbeitskreise wurden im  Schuljahr 2010/11 zum 
-  <strong>
-    FEG-Forum
-  </strong>
-  : 
-</p>
+Seit dem Schuljahr 2004/2005 haben wir am Friedrich-Eugens-Gymnasium  unsere Arbeitskreise eingeführt.
+Die Arbeitskreise wurden im  Schuljahr 2010/11 zum <strong>FEG-Forum</strong>: 
 
 <p>
   <strong>
