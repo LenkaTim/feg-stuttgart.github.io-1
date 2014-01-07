@@ -8,36 +8,9 @@ layout: Portrait
   Außerunterrichtliche Aktivitäten
 </h3>
 
-<p>
-  Partnerschulen in Großbritannien, Frankreich,  den USA und Indien ermöglichen uns einen regelmäßigen 
-  <a href="#/Portrait/Austausch/">
-    <i class="fa fa-external-link">
-    </i>
-    Schüleraustausch
-  </a>
-  .
-  <br>
+Partnerschulen in Großbritannien, Frankreich,  den USA und Indien ermöglichen uns einen regelmäßigen <a href="#/Portrait/Austausch/"><i class="fa fa-external-link"></i> Schüleraustausch</a>.
   
-  Unsere musisch begabten Schülerinnen und Schüler können ihren Interessen im 
-  <a href="#/Schulleben/Unterstufenchor/">
-    <i class="fa fa-external-link">
-    </i>
-    Chor
-  </a>
-  , im Orchester, in der 
-  <a href="#/Schulleben/Bigband/">
-    <i class="fa fa-external-link">
-    </i>
-    FEG-Big Band
-  </a>
-  oder in der 
-  <a href="#/Schulleben/Theater/">
-    <i class="fa fa-external-link">
-    </i>
-    Theater
-  </a>
-  - und in der Tanz-AG nachgehen.
-</p>
+Unsere musisch begabten Schülerinnen und Schüler können ihren Interessen im <a href="#/Schulleben/Unterstufenchor/"><i class="fa fa-external-link"></i> Chor</a>, im Orchester, in der <a href="#/Schulleben/Bigband/"><i class="fa fa-external-link"></i> FEG-Big Band</a> oder in der <a href="#/Schulleben/Theater/"><i class="fa fa-external-link"></i> Theater-</a> und in der Tanz-AG nachgehen.
 
 <p>
   Ein einwöchiges 
