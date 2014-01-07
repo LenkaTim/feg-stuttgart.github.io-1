@@ -12,15 +12,7 @@ Partnerschulen in Großbritannien, Frankreich,  den USA und Indien ermöglichen 
   
 Unsere musisch begabten Schülerinnen und Schüler können ihren Interessen im <a href="#/Schulleben/Unterstufenchor/"><i class="fa fa-external-link"></i> Chor</a>, im Orchester, in der <a href="#/Schulleben/Bigband/"><i class="fa fa-external-link"></i> FEG-Big Band</a> oder in der <a href="#/Schulleben/Theater/"><i class="fa fa-external-link"></i> Theater-</a> und in der Tanz-AG nachgehen.
 
-<p>
-  Ein einwöchiges 
-  <a href="#/Schulleben/Sozialpraktikum/2009/">
-    <i class="fa fa-external-link">
-    </i>
-    Praktikum
-  </a>
-  in einer sozialen Einrichtung sensibilisiert unsere Schüler für die Belange anderer Menschen und fördert das Verantwortungsbewußtsein.
-</p>
+Ein einwöchiges <a href="#/Schulleben/Sozialpraktikum/2009/"><i class="fa fa-external-link"></i> Praktikum</a> in einer sozialen Einrichtung sensibilisiert unsere Schüler für die Belange anderer Menschen und fördert das Verantwortungsbewußtsein.
 
 <p>
   Ausflüge, Exkursionen, unser 
