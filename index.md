@@ -4,10 +4,10 @@ layout: Startseite
 ---
 
 <!-- Jumbotron -->
-<div class="jumbotron" markdown=1>
-
-# Willkomen am FEG!
-
+<div class="jumbotron">
+  <h1>
+    Willkomen am FEG!
+  </h1>
   <p class="lead">
     Willkommen auf dem Internetportal des Friedrich-Eugens-Gymnasiums in Stuttgart
   </p>
