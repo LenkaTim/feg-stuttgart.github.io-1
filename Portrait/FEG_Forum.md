@@ -10,7 +10,7 @@ Die Arbeitskreise wurden im  Schuljahr 2010/11 zum
 <strong>
   FEG-Forum
 </strong>
-: 
+:
 
 <strong>
   Gespräche führen, gemeinsam Ideen entwickeln, Themen anstoßen, Brainstorming...
