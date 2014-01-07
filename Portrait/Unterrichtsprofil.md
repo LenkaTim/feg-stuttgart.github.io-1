@@ -17,5 +17,5 @@ Stützpunktschule aus.
 Das FEG unterstützt aktiv Schülerinnen und Schüler, die sich an Wettbewerben in Mathematik und den Naturwissenschaften beteiligen.
 
 Ab Klasse 8 bieten wir zwei Profile: 
-* Das naturwissenschaftliche Profil mit dem Fächerverbund "Naturwissenschaft und Technik".
-* Das sprachliche Profil mit Latein als dritter Fremdsprache.
++ Das naturwissenschaftliche Profil mit dem Fächerverbund "Naturwissenschaft und Technik".
++ Das sprachliche Profil mit Latein als dritter Fremdsprache.
