@@ -15,16 +15,34 @@ Etwa zeitgleich mit der Beendigung der Aktivitäten der Fidelitas wurde der Vere
 Den Vereinsmitgliedern ist es wichtig, allen jetzigen Schülerinnen und Schülern zu zeigen, dass der Besuch des FEGs den Einzelnen nicht nur mit seinen direkten Klassen und Schulkameraden verbindet, sondern dass man damit Teil eines größeren Ganzen ist, zu dem auch Ehemaligeören, die Anteil am Schulleben nehmen und die Schülerinnen und Schüler direkt oder indirekt materiell und ideell unterstützen.<br />
 Wer dann am Ende seiner Schulzeit zum Schluss kommt, dass er neben dem Kontakt zu anderen Ehemaligen auch weiter Kontakt zum FEG und seinen Schülerinnen und Schülern halten möchte, der oder die ist in unserer Runde der Ehemaligen und Freunde des Friedrich-Eugens-Gymnasiums e. V. genau richtig und herzlich willkommen!
 **Ziele des Vereins**
-* Gewähren von Zuschüssen zu Schullandheimaufenthalten und Studienreisen
-* Verleihung von Buchpreisen an begabte Schülerinnen und Schüler
-* Verleihung des FEG-Sozialpreises
-* Musikinstrumentenverleih aus dem Musikinstrumentenfundus des Vereins
-* Förderung des Schullebens durch Gewähren von Zuschüssen zu den verschiedensten Veranstaltungen des FEGs, wie beispielsweise Konzerten
-* Förderung der materiellen Ausstattung des FEGs durch Anschaffung von Geräten, wie z. B der großen Lautsprecheranlage für die Schulhofbeschallung
-* Pflege des Zusammenhaltes der Vereinsmitglieder durch die jährliche Mitgliederversammlung, die vereinseigene [<i class="fa fa-external-link"></i> Homepage](http://www.alte-fegler.de)
+<li>
+  Gewähren von Zuschüssen zu Schullandheimaufenthalten und Studienreisen
+</li>
+<li>
+  Verleihung von Buchpreisen an begabte Schülerinnen und Schüler
+</li>
+<li>
+  Verleihung des FEG-Sozialpreises
+</li>
+<li>
+  Musikinstrumentenverleih aus dem Musikinstrumentenfundus des Vereins
+</li>
+<li>
+  Förderung des Schullebens durch Gewähren von Zuschüssen zu den verschiedensten Veranstaltungen des FEGs, wie beispielsweise Konzerten
+</li>
+<li>
+  Förderung der materiellen Ausstattung des FEGs durch Anschaffung von Geräten, wie z. B der großen Lautsprecheranlage für die Schulhofbeschallung
+</li>
+<li>
+  Pflege des Zusammenhaltes der Vereinsmitglieder durch die jährliche Mitgliederversammlung, die vereinseigene [<i class="fa fa-external-link"></i> Homepage](http://www.alte-fegler.de)
 mit geschlossenem Bereich für die Mitglieder oder andere Veranstaltungen
-*Information der Mitglieder über das Schulleben durch die Jahrgangsschrift, den FEG-VereinsNewsletter und die [<i class="fa fa-external-link"></i> Vereins-Homepage](http://www.alte-fegler.de)
-* Förderung von Netzwerken zwischen Vereinsmitgliedern und jetzigen Schülerinnen und Schülern des FEGs durch KEEN, das Kompetenznetzwerk der Eltern und Ehemaligen am FEG, das z.B. Kontakte vermittelt für Praktika usw.
+</li>
+<li>
+  Information der Mitglieder über das Schulleben durch die Jahrgangsschrift, den FEG-VereinsNewsletter und die [<i class="fa fa-external-link"></i> Vereins-Homepage](http://www.alte-fegler.de)
+</li>
+<li>
+  Förderung von Netzwerken zwischen Vereinsmitgliedern und jetzigen Schülerinnen und Schülern des FEGs durch KEEN, das Kompetenznetzwerk der Eltern und Ehemaligen am FEG, das z.B. Kontakte vermittelt für Praktika usw.
+</li>
 
 Der Verein ist als gemeinnützig anerkannt. Spenden sind jederzeit herzlich willkommen! (Beitrittsformulare im Rektorat der Schule erhältlich oder über [<i class="fa fa-external-link"></i> www.alte-fegler.de](http://www.alte-fegler.de))
 
