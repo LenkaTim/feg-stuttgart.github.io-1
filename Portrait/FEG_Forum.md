@@ -6,9 +6,9 @@ layout: Portrait
 ### FEG-Forum
 
 Seit dem Schuljahr 2004/2005 haben wir am Friedrich-Eugens-Gymnasium  unsere Arbeitskreise eingeführt.
-Die Arbeitskreise wurden im  Schuljahr 2010/11 zum ***FEG-Forum:***
+Die Arbeitskreise wurden im  Schuljahr 2010/11 zum **FEG-Forum:**
 
-***Gespräche führen, gemeinsam Ideen entwickeln, Themen anstoßen, Brainstorming...***
+**Gespräche führen, gemeinsam Ideen entwickeln, Themen anstoßen, Brainstorming...**
 
 Das FEG-Forum bietet die Möglichkeit für alle am Schulleben Beteiligten - Kollegium und Schulleitung, Eltern und Schüler, sich zwanglos zum Gespräch und Gedankenaustausch zu treffen:
 Anstehende Themen werden von Lehrern, Eltern
