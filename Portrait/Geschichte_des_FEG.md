@@ -3,32 +3,10 @@ title: Geschichte_des_FEG
 layout: Portrait
 ---
 
-<h3>
-  Die Geschichte des FEG
-</h3>
+### Die Geschichte des FEG
 
-<p>
-  Zur Geschichte des Friedrich-Eugens-Gymnasiums gibt es zwei Artikel ehemaliger Kollegen:
-</p>
+Zur Geschichte des Friedrich-Eugens-Gymnasiums gibt es zwei Artikel ehemaliger Kollegen:
 
-<p>
-  Gerhard Schlecht schreibt über 
-  <a href="/Portrait/Geschichte_des_FEG/1/">
-    <i class="fa fa-external-link">
-    </i>
-    die Schulgebäude
-  </a>
-  des
-  FEG
-  <br>
-  Dr. Werner Abelein schreibt über 
-  <a href="/Portrait/Geschichte_des_FEG/2/">
-    <i class="fa fa-external-link">
-    </i>
-    die Geschichte
-    der Schule
-  </a>
-  von den Anfängen 1796 bis heute
-</p>
-
-
+Gerhard Schlecht schreibt über [<i class="fa fa-external-link"></i> die Schulgebäude](/Portrait/Geschichte_des_FEG/1/) des FEG
+Dr. Werner Abelein schreibt über 
+[<i class="fa fa-external-link"></i> die Geschichte der Schule](/Portrait/Geschichte_des_FEG/2/) von den Anfängen 1796 bis heute
