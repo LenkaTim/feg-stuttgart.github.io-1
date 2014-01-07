@@ -14,7 +14,7 @@ layout: Startseite
   <p>
     <a class="btn btn-lg btn-success" role="button">
       <script type="text/javascript">
-        countdown("zum Schulbeginn", "February 28, 2014 23:59:59 GMT+1");
+        countdown("zu des Faschingsferien", "February 28, 2014 23:59:59 GMT+1");
       </script>
     </a>
     <div class="progress">
