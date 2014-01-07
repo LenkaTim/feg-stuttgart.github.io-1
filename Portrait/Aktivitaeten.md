@@ -11,20 +11,7 @@ Unsere musisch begabten Schülerinnen und Schüler können ihren Interessen im <
 
 Ein einwöchiges <a href="#/Schulleben/Sozialpraktikum/2009/"><i class="fa fa-external-link"></i> Praktikum</a> in einer sozialen Einrichtung sensibilisiert unsere Schüler für die Belange anderer Menschen und fördert das Verantwortungsbewußtsein.
 
-<p>
-  Ausflüge, Exkursionen, unser 
-  <a href="#/Portrait/Skilandheim/">
-    <i class="fa fa-external-link">
-    </i>
-    Skilandheim
-  </a>
-  in
-  Klasse 6, die 
-  <a href="#/Portrait/London/">
-    <i class="fa fa-external-link">
-    </i>
-    London-Fahrt
-  </a>
+Ausflüge, Exkursionen, unser <a href="#/Portrait/Skilandheim/"><i class="fa fa-external-link"></i> Skilandheim</a> in Klasse 6, die <a href="#/Portrait/London/"><i class="fa fa-external-link"></i> London-Fahrt</a>
   in Klasse 9 und
   die Studienfahrten in Klasse 12 ins europäische Ausland (z.B. 
   <a href="#/Schulleben/Studienfarten/Amsterdam/">
