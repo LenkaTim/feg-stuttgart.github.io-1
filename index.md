@@ -14,7 +14,7 @@ layout: Startseite
   <p>
     <a class="btn btn-lg btn-success" role="button">
       <script type="text/javascript">
-        countdown("zum Schulbeginn", "January 6, 2014 23:59:59 GMT+1");
+        countdown("zum Schulbeginn", "February 28, 2014 23:59:59 GMT+1");
       </script>
     </a>
     <div class="progress">
@@ -22,7 +22,7 @@ layout: Startseite
     </div>
     <script type="text/javascript">
       var countdown_bar = document.getElementById("countdown_bar");
-      var dauer = "16";
+      var dauer = "53";
       var width = (dauer - ausgabe) * ("100" / dauer);
       countdown_bar.style.width =  width + "%";
       if (width <= "50"){
