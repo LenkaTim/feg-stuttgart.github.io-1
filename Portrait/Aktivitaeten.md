@@ -3,10 +3,7 @@ title: Aktivitaeten
 layout: Portrait
 ---
 
-
-<h3>
-  Außerunterrichtliche Aktivitäten
-</h3>
+### Außerunterrichtliche Aktivitäten
 
 Partnerschulen in Großbritannien, Frankreich,  den USA und Indien ermöglichen uns einen regelmäßigen <a href="#/Portrait/Austausch/"><i class="fa fa-external-link"></i> Schüleraustausch</a>.
   
