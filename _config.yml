@@ -1,4 +1,4 @@
 url: "http://feg-stuttgart.github.io"
 
-//markdown: rdiscount
+markdown: redcarpet
 permalink: pretty
