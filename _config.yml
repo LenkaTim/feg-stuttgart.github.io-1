@@ -1,4 +1,4 @@
 url: "http://feg-stuttgart.github.io"
 
-markdown: rdiscount
+"markdown: rdiscount"
 permalink: pretty
