@@ -3,31 +3,11 @@ title: Nachmittagsbetreuung
 layout: Portrait
 ---
 
-<h3>
-  Mittagstisch und Nachmittagsbetreuung
-</h3>
+### Mittagstisch und Nachmittagsbetreuung
 
-<p>
-  In der  Mensa "s-Bar" im Erdgeschoss können unsere SchülerInnen preiswert zu 
-  <a href="#/Schulleben/S-Bar/">
-    <i class="fa fa-external-link">
-    </i>
-    Mittag essen
-  </a>
-  .
-</p>
+In der  Mensa "s-Bar" im Erdgeschoss können unsere SchülerInnen preiswert zu [<i class="fa fa-external-link"></i> Mittag](#/Schulleben/S-Bar/) essen.
 
-<p>
-  Im oberen Stock können sie selbstständig Hausaufgaben (
-  <a href="#/Schulleben/Hausaufgabenbetreuuung/">
-    <i class="fa fa-external-link">
-    </i>
-    Hausaufgabenbetreuung
-  </a>
-  ) machen, auch an vernetzten Arbeitsplätzen.
-</p>
+Im oberen Stock können sie selbstständig Hausaufgaben ([<i class="fa fa-external-link"></i> Hausaufgabenbetreuung](#/Schulleben/Hausaufgabenbetreuuung/)) machen, auch an vernetzten Arbeitsplätzen.
 
-<p>
-  Dazwischen gehen vielfältige Nachmittagsprogramme aus Sport, Spiel und Lernen auf die individuellen Interessen unserer Schüler ein. Sie haben hier ein modernes Umfeld zur Umsetzung ihrer Ideen.
-</p>
+Dazwischen gehen vielfältige Nachmittagsprogramme aus Sport, Spiel und Lernen auf die individuellen Interessen unserer Schüler ein. Sie haben hier ein modernes Umfeld zur Umsetzung ihrer Ideen.
 
