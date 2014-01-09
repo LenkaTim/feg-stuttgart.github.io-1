@@ -1,5 +1,5 @@
 ---
-layouts: README
+layout: README
 ---
 
 # Webseite: [![Build Status](https://travis-ci.org/feg-stuttgart/feg-stuttgart.github.io.png?branch=master)](https://travis-ci.org/feg-stuttgart/feg-stuttgart.github.io)
