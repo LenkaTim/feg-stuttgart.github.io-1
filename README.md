@@ -1,3 +1,6 @@
+---
+---
+
 {% include head.html %}
 
 <div class="container bs-docs-container">
