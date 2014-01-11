@@ -3,7 +3,6 @@ title: Startseite
 layout: Startseite
 ---
 
-<!-- Jumbotron -->
 <div class="jumbotron">
   <h1>
     Willkomen am FEG!
@@ -36,7 +35,6 @@ layout: Startseite
 </p>
 </div>
 
-<!-- News -->
 <div class="row">
   <div class="col-lg-4">
     <h2>
