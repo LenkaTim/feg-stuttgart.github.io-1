@@ -1,6 +1,6 @@
 [submodule "Design"]
 	path = _includes
-	url = https://gitlab.com/feg-stuttgart/web_includes.git
+	url = https://github.com/feg-stuttgart/web_includes.git
 [submodule "Layouts"]
 	path = _layouts
-	url = https://gitlab.com/feg-stuttgart/web_layouts.git
+	url = https://github.com/feg-stuttgart/web_layouts.git
