@@ -106,6 +106,22 @@ layout: Startseite
       </a>
     </p>
   </div>
+  <div class="col-lg-4">
+    <h2>
+      Vertretungspläne
+    </h2>
+    <p>
+      Die aktuellen Vertretungspläne
+    </p>
+    <br/>
+    <p>
+      <a class="btn btn-primary" role="button">
+        <i class="fa fa-external-link">
+        </i>
+        Vertretungspläne
+      </a>
+    </p>
+  </div>
 </div>
 <div>
   <div>
