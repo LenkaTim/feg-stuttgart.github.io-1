@@ -58,7 +58,7 @@ layout: Galerie
         <img class="img-thumbnail gallery" src="http://www.feg-stuttgart.de/bilder/galerie/vermischt/a6.jpg" alt="Künstlerische Ansicht des Schulgebäudes"/>
       </a>
       <p>
-        Beim Wandertag an der Grabkapelle auf dem Rotenberg
+        Künstlerische Ansicht des Schulgebäudes
       </p>
       <br/>
     </div>
