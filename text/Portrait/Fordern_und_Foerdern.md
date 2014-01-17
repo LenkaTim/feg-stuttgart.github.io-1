@@ -12,3 +12,5 @@ Als Ausgleich zu den wissenschaftlichen Fächern sehen wir v.a. Kunst und Musik.
 Eine Einführung in die wichtigsten Lern- und Arbeitstechniken, in den Umgang mit dem Computer (ITG), Philosophie und Schach bereichern den Unterricht in Klasse 5 über das alltägliche Bildungsangebot hinaus. 
 
 Um bewusst den fairen Umgang miteinander zu fördern, führen wir mit dem Schuljahr 2012/13 sog. "Klassenlehrerstunden" für die Klassen 5 - 8 ein.
+
+{% include footer.html %}
