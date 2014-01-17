@@ -59,3 +59,5 @@ Vorstand des Vereins der Ehemaligen und Freunde des <br />
 Friedrich-Eugens-Gymnasiums e. V. <br />
 [<i class="fa fa-external-link"></i> www.alte-fegler.de</a>](http://www.alte-fegler.de)<br/>
 Bankverbindung: Konto Nr. 2 180 409, Landesbank Baden-Württemberg (BLZ 600 501 01)
+
+{% include footer.html %}
