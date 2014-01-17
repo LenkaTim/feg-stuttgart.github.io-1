@@ -21,3 +21,5 @@ Ab Klasse 8 bieten wir zwei Profile:
 <li>
   Das sprachliche Profil mit Latein als dritter Fremdsprache.
 </li>
+
+{% include footer.html %}
