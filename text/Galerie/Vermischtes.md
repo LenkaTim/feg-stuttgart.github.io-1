@@ -4,7 +4,7 @@
 <h3>
   Vermischtes
 </h3>
-<div id="links">
+<div id="link">
   <div class="row">
     <div class="col-lg-4">
       <a href="http://www.feg-stuttgart.de/bilder/galerie/vermischt/high/a1.jpg" title="Wandertag auf dem Rotenberg" data-gallery>
