@@ -9,3 +9,4 @@ Im oberen Stock können sie selbstständig Hausaufgaben ( [<i class="fa fa-exter
 
 Dazwischen gehen vielfältige Nachmittagsprogramme aus Sport, Spiel und Lernen auf die individuellen Interessen unserer Schüler ein. Sie haben hier ein modernes Umfeld zur Umsetzung ihrer Ideen.
 
+{% include footer.html %}
