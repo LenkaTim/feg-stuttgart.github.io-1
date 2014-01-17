@@ -1,6 +1,4 @@
 ---
-title: Kontakt
-layout: Impressum
 ---
 
 <h3>
