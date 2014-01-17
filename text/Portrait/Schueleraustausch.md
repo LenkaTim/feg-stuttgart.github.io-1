@@ -275,3 +275,5 @@
     Bericht der Londonfahrt 2008
   </a>
 </p>
+
+{% include footer.html %}
