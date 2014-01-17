@@ -103,3 +103,5 @@ und
 )
 ermöglichen
 unvergessliche Gemeinschaftserlebnisse. 
+
+{% include footer.html %}
