@@ -19,3 +19,5 @@ Nächster Termin: Montag,18. November 2013 um 19.30 Uhr im Schülerhaus
 Einladung: [<i class="fa fa-cloud-download"></i> Einladung](http://feg.cdnconnect.com/pdf/FEG-Forum.pdf)
 
 Die Protokolle finden Sie im entsprechenden Kursraum im Eltern-moodle: [<i class="fa fa-external-link"></i> Forum](http://eltern-moodle.feg-stuttgart.de/moodle/course/view.php?id=4)
+
+{% include footer.html %}
