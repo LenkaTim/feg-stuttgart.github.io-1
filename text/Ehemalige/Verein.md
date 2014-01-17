@@ -83,3 +83,5 @@
     www.alte-fegler.de
   </a>
 </p>
+
+{% include footer.html %}
