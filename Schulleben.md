@@ -1,6 +1,8 @@
 ---
+layout: Schulleben
 ---
 
 <script type="text/javascript">
-  window.location = "/Schulleben/Aktuelles/";
+    ajaxload('/Schulleben/Aktuelles/');
+    unternavigation('Aktuelles');
 </script>
