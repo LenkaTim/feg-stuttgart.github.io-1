@@ -20,5 +20,21 @@
     <br>
   </div>
 </div>
+<div class="row">
+  <div class="col-lg-4">
+    <h4>
+      Uptime
+    </h4>
+    <img src="https://share.pingdom.com/banners/946f5f99" alt="Uptime">
+    <br>
+  </div>
+  <div class="col-lg-4">
+    <h4>
+      Antwortzeiten
+    </h4>
+    <img src="https://share.pingdom.com/banners/14d984fa" alt="Antwortzeiten">
+    <br>
+  </div>
+</div>
 
 {% include footer.html %}
