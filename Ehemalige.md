@@ -1,6 +1,8 @@
 ---
+layout: Ehemalige
 ---
 
 <script type="text/javascript">
-  window.location = "/Ehemalige/Ehemalige/";
+  ajaxload('/Ehemalige/Ehemalige/');
+  unternavigation('Ehemalige');
 </script>
