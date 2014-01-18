@@ -1,6 +1,8 @@
 ---
+layout: Galerie
 ---
 
 <script type="text/javascript">
-  window.location = "/Galerie/Vermischtes/";
+    ajaxload('/Galerie/Vermischtes/');
+    unternavigation('Vermischtes');
 </script>
