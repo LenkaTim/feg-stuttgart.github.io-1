@@ -1,6 +1,8 @@
 ---
+layout: Portrait
 ---
 
 <script type="text/javascript">
-  window.location = "/Portrait/Begruessung/";
+    ajaxload('/Portrait/Begruessung/');
+    unternavigation('Begruessung');
 </script>
