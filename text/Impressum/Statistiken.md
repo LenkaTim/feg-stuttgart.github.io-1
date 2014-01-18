@@ -2,7 +2,7 @@
 ---
 
 <h3>
-  Statistiken
+  Statistiken (Neue Seite)
 </h3>
 <div class="row">
   <div class="col-lg-4">
@@ -20,6 +20,10 @@
     <br>
   </div>
 </div>
+<br />
+<h3>
+  Statistiken (Offizielle Seite)
+</h3>
 <div class="row">
   <div class="col-lg-4">
     <h4>
