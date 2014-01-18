@@ -9,14 +9,14 @@
     <h4>
       Uptime
     </h4>
-    <img src="https://share.pingdom.com/banners/cc86f6d0" alt="Uptime">
+    <img src="http://cdn.ch.vc/proxy/index.php?q=aHR0cHM6Ly9zaGFyZS5waW5nZG9tLmNvbS9iYW5uZXJzL2NjODZmNmQw" alt="Uptime">
     <br>
   </div>
   <div class="col-lg-4">
     <h4>
       Antwortzeiten
     </h4>
-    <img src="https://share.pingdom.com/banners/0d21e7b1" alt="Antwortzeiten">
+    <img src="http://cdn.ch.vc/proxy/index.php?q=aHR0cHM6Ly9zaGFyZS5waW5nZG9tLmNvbS9iYW5uZXJzLzBkMjFlN2Ix" alt="Antwortzeiten">
     <br>
   </div>
 </div>
@@ -29,14 +29,14 @@
     <h4>
       Uptime
     </h4>
-    <img src="https://share.pingdom.com/banners/946f5f99" alt="Uptime">
+    <img src="http://cdn.ch.vc/proxy/index.php?q=aHR0cHM6Ly9zaGFyZS5waW5nZG9tLmNvbS9iYW5uZXJzLzk0NmY1Zjk5&hl=0111101001" alt="Uptime">
     <br>
   </div>
   <div class="col-lg-4">
     <h4>
       Antwortzeiten
     </h4>
-    <img src="https://share.pingdom.com/banners/14d984fa" alt="Antwortzeiten">
+    <img src="http://cdn.ch.vc/proxy/index.php?q=aHR0cHM6Ly9zaGFyZS5waW5nZG9tLmNvbS9iYW5uZXJzLzE0ZDk4NGZh&hl=0111101001" alt="Antwortzeiten">
     <br>
   </div>
 </div>
