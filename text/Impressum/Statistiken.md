@@ -31,7 +31,7 @@
     <h4>
       Uptime
     </h4>
-    !-- img src="http://share.pingdom.com/banners/946f5f99" alt="Uptime" --
+    <!-- img src="http://share.pingdom.com/banners/946f5f99" alt="Uptime" -->
     <img src="https://github-camo.global.ssl.fastly.net/5884a26611ed48f214ab31cba11d37194bcb88d7/687474703a2f2f73686172652e70696e67646f6d2e636f6d2f62616e6e6572732f3934366635663939" alt="Uptime">
     <br>
   </div>
@@ -39,7 +39,7 @@
     <h4>
       Antwortzeiten
     </h4>
-    !-- img src="http://share.pingdom.com/banners/14d984fa" alt="Antwortzeiten" --
+    <!-- img src="http://share.pingdom.com/banners/14d984fa" alt="Antwortzeiten" -->
     <img src="https://github-camo.global.ssl.fastly.net/ca6ccf38540955c8c773cebde03b14dea12567d2/687474703a2f2f73686172652e70696e67646f6d2e636f6d2f62616e6e6572732f3134643938346661" alt="Antwortzeiten">
     <br>
   </div>
