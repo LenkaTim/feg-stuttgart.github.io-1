@@ -1,6 +1,8 @@
 ---
+layout: Impressum
 ---
 
 <script type="text/javascript">
-  window.location = "/Impressum/Kontakt/";
+    ajaxload('/Impressum/Kontakt/');
+    unternavigation('Kontakt');
 </script>
