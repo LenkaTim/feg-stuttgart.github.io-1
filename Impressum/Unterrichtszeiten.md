@@ -3,6 +3,5 @@ layout: Impressum
 ---
 
 <script type="text/javascript">
-    ajaxload('/Impressum/Unterrichtszeiten/');
-    unternavigation('Unterrichtszeiten');
+    ajaxload('Impressum', 'Unterrichtszeiten');
 </script>
