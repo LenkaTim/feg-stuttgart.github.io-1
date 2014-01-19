@@ -3,6 +3,5 @@ layout: Portrait
 ---
 
 <script type="text/javascript">
-    ajaxload('/Portrait/Begruessung/');
-    unternavigation('Begruessung');
+    ajaxload('Portrait', 'Begruessung');
 </script>
