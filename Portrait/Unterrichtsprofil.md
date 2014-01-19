@@ -3,6 +3,5 @@ layout: Portrait
 ---
 
 <script type="text/javascript">
-    ajaxload('/Portrait/Unterrichtsprofil/');
-    unternavigation('Unterrichtsprofil');
+    ajaxload('Portrait', 'Unterrichtsprofil');
 </script>
