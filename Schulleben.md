@@ -3,7 +3,7 @@ layout: Schulleben
 ---
 
 <script type="text/javascript">
-    $( "#result" ).load( "/text/Schulleben/Aktuelles/", function() {
+    $( "#content" ).load( "/text/Schulleben/Aktuelles/", function() {
     unternavigation('Aktuelles');
     });
 </script>
