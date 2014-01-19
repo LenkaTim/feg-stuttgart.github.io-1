@@ -3,6 +3,5 @@ layout: Impressum
 ---
 
 <script type="text/javascript">
-    ajaxload('/Impressum/Kontakt/');
-    unternavigation('Kontakt');
+    ajaxload('Impressum', 'Kontakt');
 </script>
