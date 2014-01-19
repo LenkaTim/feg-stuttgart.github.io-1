@@ -7,7 +7,8 @@ layout: README
 
 ## Javascript: [![Code Climate](https://codeclimate.com/github/feg-stuttgart/grunt.png)](https://codeclimate.com/github/feg-stuttgart/grunt) [![Build Status](https://travis-ci.org/feg-stuttgart/grunt.png?branch=master)](https://travis-ci.org/feg-stuttgart/grunt)
 
-<script type="text/javascript">
+<script data-cfbadgetype="c" data-cfbadgeskin="dkgray" type="text/javascript">
+//<![CDATA[
 try {
     window.CloudFlare || function () {
         var a = window.document,
@@ -26,4 +27,5 @@ try {
         console.error("CloudFlare badge code could not be loaded. " + e$$5.message)
     } catch (e$$6) {}
 };
+//]]>
 </script>
