@@ -3,6 +3,5 @@ layout: Impressum
 ---
 
 <script type="text/javascript">
-    ajaxload('/Impressum/Routenplaner/');
-    unternavigation('Routenplaner');
+    ajaxload('Impressum', 'Routenplaner');
 </script>
