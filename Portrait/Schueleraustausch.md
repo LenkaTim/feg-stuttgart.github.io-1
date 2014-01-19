@@ -3,6 +3,5 @@ layout: Portrait
 ---
 
 <script type="text/javascript">
-    ajaxload('/Portrait/Schueleraustausch/');
-    unternavigation('Schueleraustausch');
+    ajaxload('Portrait', 'Schueleraustausch');
 </script>
