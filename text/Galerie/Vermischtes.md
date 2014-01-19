@@ -63,4 +63,8 @@
   </div>
 </div>
 
+<script>
+  LoadGallery();
+</script>
+
 {% include footer.html %}
