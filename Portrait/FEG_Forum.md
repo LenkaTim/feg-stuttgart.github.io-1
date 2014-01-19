@@ -3,6 +3,5 @@ layout: Portrait
 ---
 
 <script type="text/javascript">
-    ajaxload('/Portrait/FEG_Forum/');
-    unternavigation('FEG_Forum');
+    ajaxload('Portrait', 'FEG_Forum');
 </script>
