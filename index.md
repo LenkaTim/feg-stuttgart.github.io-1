@@ -1,5 +1,4 @@
 ---
-title: Startseite
 layout: Startseite
 ---
 
