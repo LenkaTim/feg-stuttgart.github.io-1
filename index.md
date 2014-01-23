@@ -34,20 +34,18 @@ layout: Startseite
 </p>
 </div>
 
-<div class="row">
-  <div class="col-lg-4">
-    <h2>
-      Aktuelle Termine
-    </h2>
-    <p>
-      Das FEG wünscht Ihnen eine gesegnete Weihnachtszeit und einen Guten Rutsch ins neue Jahr 2014!
-    </p>
-  </div>
-  <div class="col-lg-4">
-    <h2>
-      Kalender
-    </h2>
-    <p>
+<div class="panel-group" id="accordion">
+  <div class="panel panel-default">
+    <div class="panel-heading">
+      <h4 class="panel-title">
+        <a data-toggle="collapse" data-parent="#accordion" href="#collapseKalender">
+          Kalender
+        </a>
+      </h4>
+    </div>
+    <div id="collapseKallender" class="panel-collapse collapse in">
+      <div class="panel-body">
+        <p>
       Hier finden Sie den Terminkalender des Schuljahres:
     </p>
     <br/>
@@ -58,68 +56,36 @@ layout: Startseite
         Termine
       </a>
     </p>
+      </div>
+    </div>
   </div>
-  <div class="col-lg-4">
-    <h2>
-      Mint
-    </h2>
-    <p>
-      Neues zum Netzwerk “Mathematik – Informatik – Naturwissenschaft – Technik” am FEG
-    </p>
-    <p>
-      <a class="btn btn-primary" role="button">
-        <i class="fa fa-external-link">
-        </i>
-        MINT
-      </a>
-    </p>
+  <div class="panel panel-default">
+    <div class="panel-heading">
+      <h4 class="panel-title">
+        <a data-toggle="collapse" data-parent="#accordion" href="#collapseTwo">
+          Collapsible Group Item #2
+        </a>
+      </h4>
+    </div>
+    <div id="collapseTwo" class="panel-collapse collapse">
+      <div class="panel-body">
+        Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. 3 wolf moon officia aute, non cupidatat skateboard dolor brunch. Food truck quinoa nesciunt laborum eiusmod. Brunch 3 wolf moon tempor, sunt aliqua put a bird on it squid single-origin coffee nulla assumenda shoreditch et. Nihil anim keffiyeh helvetica, craft beer labore wes anderson cred nesciunt sapiente ea proident. Ad vegan excepteur butcher vice lomo. Leggings occaecat craft beer farm-to-table, raw denim aesthetic synth nesciunt you probably haven't heard of them accusamus labore sustainable VHS.
+      </div>
+    </div>
   </div>
-  <div class="col-lg-4">
-    <h2>
-      Beratungslehrer
-    </h2>
-    <p>
-      Seit diesem Schuljahr hat das FEG einen Beratungslehrer
-    </p>
-    <p>
-      <a class="btn btn-primary" role="button">
-        <i class="fa fa-external-link">
-        </i>
-        Beratungslehrer
-      </a>
-    </p>
-  </div>
-  <div class="col-lg-4">
-    <h2>
-      Speisepläne
-    </h2>
-    <p>
-      Die Speisepläne für die Zeit bis Weihnachten sind online
-    </p>
-    <br/>
-    <p>
-      <a class="btn btn-primary" role="button">
-        <i class="fa fa-external-link">
-        </i>
-        Speisepläne
-      </a>
-    </p>
-  </div>
-  <div class="col-lg-4">
-    <h2>
-      Vertretungspläne
-    </h2>
-    <p>
-      Die aktuellen Vertretungspläne
-    </p>
-    <br/>
-    <p>
-      <a class="btn btn-primary" role="button">
-        <i class="fa fa-external-link">
-        </i>
-        Vertretungspläne
-      </a>
-    </p>
+  <div class="panel panel-default">
+    <div class="panel-heading">
+      <h4 class="panel-title">
+        <a data-toggle="collapse" data-parent="#accordion" href="#collapseThree">
+          Collapsible Group Item #3
+        </a>
+      </h4>
+    </div>
+    <div id="collapseThree" class="panel-collapse collapse">
+      <div class="panel-body">
+        Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. 3 wolf moon officia aute, non cupidatat skateboard dolor brunch. Food truck quinoa nesciunt laborum eiusmod. Brunch 3 wolf moon tempor, sunt aliqua put a bird on it squid single-origin coffee nulla assumenda shoreditch et. Nihil anim keffiyeh helvetica, craft beer labore wes anderson cred nesciunt sapiente ea proident. Ad vegan excepteur butcher vice lomo. Leggings occaecat craft beer farm-to-table, raw denim aesthetic synth nesciunt you probably haven't heard of them accusamus labore sustainable VHS.
+      </div>
+    </div>
   </div>
 </div>
 <div>
