@@ -4,6 +4,9 @@ CACHE MANIFEST
 
 CACHE:
 
+#html
+*
+
 #images
 
 #internal HTML documents
@@ -14,6 +17,3 @@ CACHE:
 
 #javascript files
 /static/js/index.js
-
-NETWORK:
-*
