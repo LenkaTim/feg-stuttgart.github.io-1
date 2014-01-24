@@ -1,0 +1,19 @@
+CACHE MANIFEST
+
+#version 1.0 1-24-2014
+
+CACHE:
+
+#images
+
+#internal HTML documents
+/text/*
+
+#style sheets
+/static/css/index.css
+
+#javascript files
+/static/js/index.js
+
+NETWORK:
+*
