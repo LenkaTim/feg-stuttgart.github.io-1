@@ -9,7 +9,7 @@
     <div class="col-lg-4">
       <a href="http://www.feg-stuttgart.de/bilder/galerie/vermischt/high/a1.jpg" title="Wandertag auf dem Rotenberg" data-gallery>
         <script type="text/javascript" charset="utf-8">
-          createimage(localStorage.getItem('Galerie-Vermischtes-1', 'Wandertag auf dem Rotenberg', 'Galerie-Vermischtes-1');
+          createimage(localStorage.getItem('Galerie-Vermischtes-1'), 'Wandertag auf dem Rotenberg', 'Galerie-Vermischtes-1');
         </script>
         <img class="img-thumbnail gallery" src="" alt='' id="Galerie-Vermischtes-1" />
       </a>
@@ -21,7 +21,7 @@
     <div class="col-lg-4">
       <a href="http://www.feg-stuttgart.de/bilder/galerie/vermischt/high/a2.jpg" title="Fußballmannschaft des FEG" data-gallery>
         <script type="text/javascript" charset="utf-8">
-          createimage(localStorage.getItem('Galerie-Vermischtes-2', 'Wandertag auf dem Rotenberg', 'Galerie-Vermischtes-2');
+          createimage(localStorage.getItem('Galerie-Vermischtes-2'), 'Wandertag auf dem Rotenberg', 'Galerie-Vermischtes-2');
         </script>
         <img class="img-thumbnail gallery" src="" alt='' id="Galerie-Vermischtes-2" />
       </a>
@@ -33,7 +33,7 @@
     <div class="col-lg-4">
       <a href="http://www.feg-stuttgart.de/bilder/galerie/vermischt/high/a3.jpg" title="Präsentation der neuen Trikots" data-gallery>
         <script type="text/javascript" charset="utf-8">
-          createimage(localStorage.getItem('Galerie-Vermischtes-3', 'Wandertag auf dem Rotenberg', 'Galerie-Vermischtes-3');
+          createimage(localStorage.getItem('Galerie-Vermischtes-3'), 'Wandertag auf dem Rotenberg', 'Galerie-Vermischtes-3');
         </script>
         <img class="img-thumbnail gallery" src="" alt='' id="Galerie-Vermischtes-3" />
       </a>
@@ -45,7 +45,7 @@
     <div class="col-lg-4">
       <a href="http://www.feg-stuttgart.de/bilder/galerie/vermischt/high/a4.jpg" title="Hausaufgabenbetreuung" data-gallery>
         <script type="text/javascript" charset="utf-8">
-          createimage(localStorage.getItem('Galerie-Vermischtes-4', 'Wandertag auf dem Rotenberg', 'Galerie-Vermischtes-4');
+          createimage(localStorage.getItem('Galerie-Vermischtes-4'), 'Wandertag auf dem Rotenberg', 'Galerie-Vermischtes-4');
         </script>
         <img class="img-thumbnail gallery" src="" alt='' id="Galerie-Vermischtes-4" />
       </a>
@@ -57,7 +57,7 @@
     <div class="col-lg-4">
       <a href="http://www.feg-stuttgart.de/bilder/galerie/vermischt/high/a5.jpg" title="Der Computerraum nach der Neuausstattung" data-gallery>
         <script type="text/javascript" charset="utf-8">
-          createimage(localStorage.getItem('Galerie-Vermischtes-5', 'Wandertag auf dem Rotenberg', 'Galerie-Vermischtes-5');
+          createimage(localStorage.getItem('Galerie-Vermischtes-5'), 'Wandertag auf dem Rotenberg', 'Galerie-Vermischtes-5');
         </script>
         <img class="img-thumbnail gallery" src="" alt='' id="Galerie-Vermischtes-5" />
       </a>
@@ -69,7 +69,7 @@
     <div class="col-lg-4">
       <a href="http://www.feg-stuttgart.de/bilder/galerie/vermischt/high/a6.jpg" title="Künstlerische Ansicht des Schulgebäudes" data-gallery>
         <script type="text/javascript" charset="utf-8">
-          createimage(localStorage.getItem('Galerie-Vermischtes-6', 'Wandertag auf dem Rotenberg', 'Galerie-Vermischtes-6');
+          createimage(localStorage.getItem('Galerie-Vermischtes-6'), 'Wandertag auf dem Rotenberg', 'Galerie-Vermischtes-6');
         </script>
         <img class="img-thumbnail gallery" src="" alt='' id="Galerie-Vermischtes-6" />
       </a>
