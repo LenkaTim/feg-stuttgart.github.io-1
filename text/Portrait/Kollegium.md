@@ -5,7 +5,7 @@
 
 Im Schuljahr 2013/2014 unterrichten rund 50 Lehrerinnen und Lehrer am Friedrich-Eugens-Gymnasium.
 
-<script>
+<script type="text/javascript" charset="utf-8">
   createimage('Portrait-Kollegium-1', 'Kollegium 2012/2013');
 </script>
 <br />
