@@ -6,12 +6,13 @@
         <script>
             function AngularCtrl($scope) {
                 $scope.images = [
-                        {url:'http://www.feg-stuttgart.de/bilder/galerie/vermischt/a1.jpg'},
-                        {url:'http://www.feg-stuttgart.de/bilder/galerie/vermischt/a2.jpg'},
-                        {url:'http://www.feg-stuttgart.de/bilder/galerie/vermischt/a3.jpg'},
-                        {url:'http://www.feg-stuttgart.de/bilder/galerie/vermischt/a4.jpg'},
-                        {url:'http://www.feg-stuttgart.de/bilder/galerie/vermischt/a5.jpg'},
-                        {url:'http://www.feg-stuttgart.de/bilder/galerie/vermischt/a6.jpg'}
+                        {link:'http://www.feg-stuttgart.de/bilder/galerie/vermischt/a1.jpg', src:'http://www.feg-stuttgart.de/bilder/galerie/vermischt/a1.jpg', alt:'Beim Wandertag an der Grabkapelle auf dem Rotenberg'},
+                        {link:'http://www.feg-stuttgart.de/bilder/galerie/vermischt/a2.jpg', src:'http://www.feg-stuttgart.de/bilder/galerie/vermischt/a2.jpg', alt:'Fußballmannschaft des FEG für "Jugend trainiert für Olympia" '},
+                        {link:'http://www.feg-stuttgart.de/bilder/galerie/vermischt/a3.jpg', src:'http://www.feg-stuttgart.de/bilder/galerie/vermischt/a3.jpg', alt:'Präsentation der neuen Trikots
+'},
+                        {link:'http://www.feg-stuttgart.de/bilder/galerie/vermischt/a4.jpg', src:'http://www.feg-stuttgart.de/bilder/galerie/vermischt/a4.jpg', alt:'Hausaufgabenbetreuung'},
+                        {link:'http://www.feg-stuttgart.de/bilder/galerie/vermischt/a5.jpg', src:'http://www.feg-stuttgart.de/bilder/galerie/vermischt/a5.jpg', alt:'Der Computerraum nach der Neuausstattung'},
+                        {link:'http://www.feg-stuttgart.de/bilder/galerie/vermischt/a6.jpg', src:'http://www.feg-stuttgart.de/bilder/galerie/vermischt/a6.jpg', alt:'Künstlerische Ansicht des Schulgebäudes'}
                     ];
                 }
         </script>
@@ -23,8 +24,8 @@
 <div id="links">
   <div class="row">
     <div class="col-lg-4" ng-repeat="img in images">
-      <a href="http://www.feg-stuttgart.de/bilder/galerie/vermischt/high/a1.jpg" title="Wandertag auf dem Rotenberg" data-gallery>
-        <img class="img-thumbnail gallery" src="{{img.url}}" alt='' id="Galerie-Vermischtes-1" />
+      <a href="{{img.link}}" title="{{img.alt}}" data-gallery>
+        <img class="img-thumbnail gallery" src="{{img.src}}" alt='{{img.alt}}'/>
       </a>
       <p>
         Beim Wandertag an der Grabkapelle auf dem Rotenberg
