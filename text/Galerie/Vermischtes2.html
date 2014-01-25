@@ -8,8 +8,7 @@
                 $scope.images = [
                     {url:'http://www.feg-stuttgart.de/bilder/k12.jpg'}
                 ];
-            }
-            var myapp;
+           var myapp;
             myApp = angular.module('myApp', []);
 
             myApp.config([
@@ -17,6 +16,7 @@
                     return $interpolateProvider.startSymbol('((((').endSymbol('))))');
                 }
             ]);
+            }
         </script>
     </head>
     <body ng-controller="AngularCtrl">
