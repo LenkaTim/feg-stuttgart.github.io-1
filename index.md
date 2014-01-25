@@ -16,7 +16,7 @@ layout: Startseite
       </script>
     </a>
     <div class="progress">
-      <div id="countdown_bar" class="progress-bar progress-bar-warning" role="progressbar">
+      <div id="countdown_bar" class="progress-bar progress-bar-info" role="progressbar">
       </div>
   </div>
   <script type="text/javascript">
@@ -24,8 +24,8 @@ layout: Startseite
     var dauer = "53";
     var width = (dauer - ausgabe) * ("100" / dauer);
     countdown_bar.style.width =  width + "%";
-    if (width <= "50"){
-      countdown_bar.className = "progress-bar progress-bar-info";
+    if (width >= "50"){
+      countdown_bar.className = "progress-bar progress-bar-warning";
     }
     if (width >= "80"){
       countdown_bar.className = "progress-bar progress-bar-danger";
