@@ -1,6 +1,9 @@
 ---
 ---
-
+<script>
+$scope.img = [
+    {url:'http://www.feg-stuttgart.de/bilder/k12.jpg'}];
+</script>
 <h3>
   Vermischtes
 </h3>
