@@ -38,7 +38,7 @@ $scope.img = [
         <script type="text/javascript" charset="utf-8">
           createimage(localStorage.getItem('Galerie-Vermischtes-3'), 'Wandertag auf dem Rotenberg', 'Galerie-Vermischtes-3');
         </script>
-        <img class="img-thumbnail gallery" src="{(img.2)}" alt='' id="Galerie-Vermischtes-3" />
+        <img class="img-thumbnail gallery" src="{(img.url)}" alt='' id="Galerie-Vermischtes-3" />
       </a>
       <p>
         Präsentation der neuen Trikots der Fußballmanschaft
