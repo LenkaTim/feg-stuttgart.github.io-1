@@ -1,9 +1,15 @@
 ---
 ---
-<script>
-$scope.img = [
-    {url:'http://www.feg-stuttgart.de/bilder/k12.jpg'}];
-</script>
+
+<html>
+    <head>
+        <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.2.10/angular.min.js">
+        <script>
+            $scope.img = [
+                {url:'http://www.feg-stuttgart.de/bilder/k12.jpg'}];
+        </script>
+    </head>
+    <body>
 <h3>
   Vermischtes
 </h3>
