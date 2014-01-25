@@ -4,11 +4,11 @@
         <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.2.10/angular.min.js">
         </script>
         <script>
-            function AngularCtrl($scope) {
+            function TodoCtrl($scope) {
                 $scope.images = [
-                    {url:'http://www.feg-stuttgart.de/bilder/k12.jpg'},
-                    {url:'http://www.feg-stuttgart.de/wp-content/themes/FEG/bilder/a7.jpg'};
-                ];
+                    {text:'http://www.feg-stuttgart.de/wp-content/themes/FEG/bilder/a2.jpg', done:false},
+                    {text:'build an angular app', done:false}];
+                }
         </script>
     </head>
     <body ng-controller="AngularCtrl">
@@ -19,7 +19,7 @@
   <div class="row">
     <div class="col-lg-4" ng-repeat="img in images">
       <a href="http://www.feg-stuttgart.de/bilder/galerie/vermischt/high/a1.jpg" title="Wandertag auf dem Rotenberg" data-gallery>
-        <img class="img-thumbnail gallery" src="{{img.url}}" alt='' id="Galerie-Vermischtes-1" />
+        <img class="img-thumbnail gallery" src="{{img.text}}" alt='' id="Galerie-Vermischtes-1" />
       </a>
       <p>
         Beim Wandertag an der Grabkapelle auf dem Rotenberg
