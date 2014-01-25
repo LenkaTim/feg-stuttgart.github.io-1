@@ -7,7 +7,16 @@
         </script>
         <script>
             $scope.img = [
-                {url:'http://www.feg-stuttgart.de/bilder/k12.jpg'}];
+                {url:'http://www.feg-stuttgart.de/bilder/k12.jpg'}
+            ];
+            var myapp;
+            myApp = angular.module('myApp', []);
+
+            myApp.config([
+                '$interpolateProvider', function($interpolateProvider) {
+                    return $interpolateProvider.startSymbol('{(').endSymbol(')}');
+                }
+            ]);
         </script>
     </head>
     <body>
