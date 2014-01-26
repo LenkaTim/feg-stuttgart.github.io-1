@@ -1,6 +1,7 @@
 ---
 layout: Angular
 ---
+
 <h3>
   Vermischtes
 </h3>
@@ -11,7 +12,7 @@ layout: Angular
         <img class="img-thumbnail gallery" src="{(img.src)}" alt='{(img.alt)}'/>
       </a>
       <p>
-        {{img.alt}}
+        {(img.alt)}
       </p>
       <br/>
     </div>
