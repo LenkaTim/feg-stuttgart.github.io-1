@@ -16,7 +16,7 @@
     <h4>
       Antwortzeiten
     </h4>
-    <img src="//share.pingdom.com/banners/0d21e7b1" alt="Antwortzeiten">
+    <img src="//share.pingdom.com/banners/f744827a" alt="Antwortzeiten">
     <br>
   </div>
 </div>
