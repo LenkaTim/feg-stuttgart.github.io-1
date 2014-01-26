@@ -14,7 +14,7 @@
       <p>
         {{img.alt}}
       </p>
-      <br/>
+      <br />
     </div>
     {% endfor %}
   </div>
