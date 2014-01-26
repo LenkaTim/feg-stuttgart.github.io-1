@@ -1,0 +1,82 @@
+<div ng-app ng-controller="AngularCtrl" >
+<script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.2.10/angular.min.js">
+        </script>
+        <script>
+            function AngularCtrl($scope) {
+                $scope.images = [
+                        {link:'http://www.feg-stuttgart.de/bilder/galerie/vermischt/high/a1.jpg', src:'http://www.feg-stuttgart.de/bilder/galerie/vermischt/a1.jpg', alt:'Beim Wandertag an der Grabkapelle auf dem Rotenberg'},
+                        {link:'http://www.feg-stuttgart.de/bilder/galerie/vermischt/high/a2.jpg', src:'http://www.feg-stuttgart.de/bilder/galerie/vermischt/a2.jpg', alt:'Fußballmannschaft des FEG für "Jugend trainiert für Olympia'},
+                        {link:'http://www.feg-stuttgart.de/bilder/galerie/vermischt/high/a3.jpg', src:'http://www.feg-stuttgart.de/bilder/galerie/vermischt/a3.jpg', alt:'Präsentation der neuen Trikots'},
+                        {link:'http://www.feg-stuttgart.de/bilder/galerie/vermischt/high/a4.jpg', src:'http://www.feg-stuttgart.de/bilder/galerie/vermischt/a4.jpg', alt:'Hausaufgabenbetreuung'},
+                        {link:'http://www.feg-stuttgart.de/bilder/galerie/vermischt/high/a5.jpg', src:'http://www.feg-stuttgart.de/bilder/galerie/vermischt/a5.jpg', alt:'Der Computerraum nach der Neuausstattung'},
+                        {link:'http://www.feg-stuttgart.de/bilder/galerie/vermischt/high/a6.jpg', src:'http://www.feg-stuttgart.de/bilder/galerie/vermischt/a6.jpg', alt:'Künstlerische Ansicht des Schulgebäudes'}
+                    ];
+                }
+        </script>
+<h3>
+  Vermischtes
+</h3>
+<div id="links">
+  <div class="row">
+    <div class="col-lg-4" ng-repeat="img in images">
+      <a href="{{img.link}}" title="{{img.alt}}" data-gallery>
+        <img class="img-thumbnail gallery" src="{{img.src}}" alt='{{img.alt}}'/>
+      </a>
+      <p>
+        {{img.alt}}
+      </p>
+    </div>
+  </div>
+</div>
+</div>
+<p><br>
+<i class="fa fa-arrow-up">
+</i>
+<a href="#nachoben">
+  nach oben
+</a>
+| 
+<i class="fa fa-arrow-left">
+</i>
+<a href="javascript:window.location=zurueck" onmouseover="{window.status='Zurück'; return true;}">
+  zurück
+</a>
+<div class="footer">
+  <p>
+    <a href="https://github.com/feg-stuttgart">
+      <i class="fa fa-github fa-1g">
+      </i>
+      Auf Github anzeigen
+    </a>
+    | 
+    <a href="https://github.com/feg-stuttgart/feg-stuttgart.github.io/blob/master/text/Galerie/Vermischtes.md">
+      <i class="fa fa-pencil-square-o">
+      </i>
+      bearbeiten
+    </a>
+    <br/>
+    &copy; Friedrich-Eugens-Gymnasium Stuttgart 25 Jan 2014
+  </p>
+</div>
+</div>
+</div>
+</div>
+</div></p>
+
+<!-- The Bootstrap Image Gallery lightbox, should be a child element of the document body -->
+
+<div id="blueimp-gallery" class="blueimp-gallery">
+    <!-- The container for the modal slides -->
+    <div class="slides"></div>
+    <!-- Controls for the borderless lightbox -->
+    <h3 class="title"></h3>
+    <a class="prev">‹</a>
+    <a class="next">›</a>
+    <a class="close">×</a>
+    <a class="play-pause"></a>
+    <ol class="indicator"></ol>
+</div>
+
+<p></div>
+</body>
+</html></p>
