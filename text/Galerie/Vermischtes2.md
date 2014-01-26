@@ -1,36 +1,6 @@
 ---
+layout: Angular
 ---
-
-<html ng-app>
-  <head>
-    <meta charset="utf-8" />
-    <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.2.10/angular.min.js">
-    </script>
-    <script charset="utf-8">
-      var customInterpolationApp = angular.module('customInterpolationApp', []);
-      
-      customInterpolationApp.config(function($interpolateProvider) {
-        $interpolateProvider.startSymbol('{(');
-        $interpolateProvider.endSymbol(')}');
-      }
-                                   );
-    </script>
-    <script charset="utf-8">
-      function AngularCtrl($scope) {
-        $scope.images = [
-          {
-            link:'http://www.feg-stuttgart.de/bilder/galerie/vermischt/high/a1.jpg', src:'http://www.feg-stuttgart.de/bilder/galerie/vermischt/a1.jpg', alt:'Beim Wandertag an der Grabkapelle auf dem Rotenberg'},
-          {
-            link:'http://www.feg-stuttgart.de/bilder/galerie/vermischt/high/a2.jpg', src:'http://www.feg-stuttgart.de/bilder/galerie/vermischt/a2.jpg', alt:'Fußballmannschaft des FEG für "Jugend trainiert für Olympia'},
-          {link:'http://www.feg-stuttgart.de/bilder/galerie/vermischt/high/a3.jpg', src:'http://www.feg-stuttgart.de/bilder/galerie/vermischt/a3.jpg', alt:'Präsentation der neuen Trikots'},
-          {link:'http://www.feg-stuttgart.de/bilder/galerie/vermischt/high/a4.jpg', src:'http://www.feg-stuttgart.de/bilder/galerie/vermischt/a4.jpg', alt:'Hausaufgabenbetreuung'},
-          {link:'http://www.feg-stuttgart.de/bilder/galerie/vermischt/high/a5.jpg', src:'http://www.feg-stuttgart.de/bilder/galerie/vermischt/a5.jpg', alt:'Der Computerraum nach der Neuausstattung'},
-          {link:'http://www.feg-stuttgart.de/bilder/galerie/vermischt/high/a6.jpg', src:'http://www.feg-stuttgart.de/bilder/galerie/vermischt/a6.jpg', alt:'Künstlerische Ansicht des Schulgebäudes'}
-        ];
-      }
-    </script>
-  </head>
-  <body ng-controller="AngularCtrl">
     <h3>
       Vermischtes
     </h3>
