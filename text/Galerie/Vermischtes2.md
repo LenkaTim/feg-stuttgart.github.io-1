@@ -15,7 +15,7 @@
       }
                                    );
     </script>
-    <script>
+    <script charset="utf-8">
       function AngularCtrl($scope) {
         $scope.images = [
           {
