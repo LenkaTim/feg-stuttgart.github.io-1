@@ -1,7 +1,18 @@
+---
+---
+
 <html ng-app>
     <head>
         <meta charset="utf-8" />
         <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.2.10/angular.min.js">
+        </script>
+        <script>
+            var customInterpolationApp = angular.module('customInterpolationApp', []);
+
+customInterpolationApp.config(function($interpolateProvider) {
+    $interpolateProvider.startSymbol('{(');
+    $interpolateProvider.endSymbol(')}');
+});
         </script>
         <script>
             function AngularCtrl($scope) {
@@ -23,8 +34,8 @@
 <div id="links">
   <div class="row">
     <div class="col-lg-4" ng-repeat="img in images">
-      <a href="{{img.link}}" title="{{img.alt}}" data-gallery>
-        <img class="img-thumbnail gallery" src="{{img.src}}" alt='{{img.alt}}'/>
+      <a href="{(img.link)}" title="{(img.alt)}" data-gallery>
+        <img class="img-thumbnail gallery" src="{(img.src)}" alt='{(img.alt)}'/>
       </a>
       <p>
         {{img.alt}}
