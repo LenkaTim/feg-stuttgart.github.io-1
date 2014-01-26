@@ -7,7 +7,7 @@
 <div id="links">
   <div class="row">
   {% for img in site.data.images-Galerie-Vermischtes %}
-    <div class="col-lg-4" ng-repeat="img in images">
+    <div class="col-lg-4">
       <a href="{{img.link}}" title="{{img.alt}}" data-gallery>
         <img class="img-thumbnail gallery" src="{{img.src}}" alt='{{img.alt}}'/>
       </a>
