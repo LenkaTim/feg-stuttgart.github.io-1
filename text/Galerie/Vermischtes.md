@@ -19,3 +19,4 @@
     {% endfor %}
   </div>
 </div>
+{% include footer.html %}
