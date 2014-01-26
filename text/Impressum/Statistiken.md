@@ -2,7 +2,7 @@
 ---
 
 <div class="row">
-{% for img in site.data.images-Galerie-Vermischtes %}
+{% for img in site.data.images-Impressum-Statistiken %}
     <div class="col-lg-4">
       <h4>
         {{img.alt}}
