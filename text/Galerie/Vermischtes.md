@@ -4,30 +4,32 @@
 <h3>
   Vermischtes
 </h3>
-<div id="links">
-  <div class="row">
+<div class="row">
   {% for img in site.data.images-Galerie-Vermischtes-1 %}
-    <div class="col-lg-4">
+  <div class="col-lg-4">
+    <div id="links">
       <a href="{{img.link}}" title="{{img.alt}}" data-gallery>
         <img class="img-thumbnail gallery" src="{{img.src}}" alt='{{img.alt}}'/>
-      </a>
-      <p>
-        {{img.alt}}
-      </p>
-      <br />
-    </div>
-    {% endfor %}
+        </a>
+        <p>
+          {{img.alt}}
+        </p>
+        <br />
+      </div>
   </div>
+  {% endfor %}
   <div class="row">
-  {% for img in site.data.images-Galerie-Vermischtes-2%}
+    {% for img in site.data.images-Galerie-Vermischtes-2%}
     <div class="col-lg-4">
-      <a href="{{img.link}}" title="{{img.alt}}" data-gallery>
-        <img class="img-thumbnail gallery" src="{{img.src}}" alt='{{img.alt}}'/>
-      </a>
-      <p>
-        {{img.alt}}
-      </p>
-      <br />
+      <div id="links">
+        <a href="{{img.link}}" title="{{img.alt}}" data-gallery>
+          <img class="img-thumbnail gallery" src="{{img.src}}" alt='{{img.alt}}'/>
+        </a>
+        <p>
+          {{img.alt}}
+        </p>
+        <br />
+      </div>
     </div>
     {% endfor %}
   </div>
