@@ -10,28 +10,28 @@
     <div id="links">
       <a href="{{img.link}}" title="{{img.alt}}" data-gallery>
         <img class="img-thumbnail gallery" src="{{img.src}}" alt='{{img.alt}}'/>
-        </a>
-        <p>
-          {{img.alt}}
-        </p>
-        <br />
-      </div>
+      </a>
+      <p>
+        {{img.alt}}
+      </p>
+      <br />
+    </div>
   </div>
   {% endfor %}
-  <div class="row">
-    {% for img in site.data.images-Galerie-Vermischtes-2%}
-    <div class="col-lg-4">
-      <div id="links">
-        <a href="{{img.link}}" title="{{img.alt}}" data-gallery>
-          <img class="img-thumbnail gallery" src="{{img.src}}" alt='{{img.alt}}'/>
-        </a>
-        <p>
-          {{img.alt}}
-        </p>
-        <br />
-      </div>
+</div>
+<div class="row">
+  {% for img in site.data.images-Galerie-Vermischtes-2%}
+  <div class="col-lg-4">
+    <div id="links">
+      <a href="{{img.link}}" title="{{img.alt}}" data-gallery>
+        <img class="img-thumbnail gallery" src="{{img.src}}" alt='{{img.alt}}'/>
+      </a>
+      <p>
+        {{img.alt}}
+      </p>
+      <br />
     </div>
-    {% endfor %}
   </div>
+  {% endfor %}
 </div>
 {% include footer.html %}
