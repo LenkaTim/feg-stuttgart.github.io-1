@@ -6,7 +6,7 @@
     <meta charset="utf-8" />
     <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.2.10/angular.min.js">
     </script>
-    <script>
+    <script charset="utf-8">
       var customInterpolationApp = angular.module('customInterpolationApp', []);
       
       customInterpolationApp.config(function($interpolateProvider) {
