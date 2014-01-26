@@ -11,11 +11,11 @@
       <a href="{{img.link}}" title="{{img.alt}}" data-gallery>
         <img class="img-thumbnail gallery" src="{{img.src}}" alt='{{img.alt}}'/>
       </a>
-      <p>
-        {{img.alt}}
-      </p>
-      <br />
     </div>
+    <p>
+      {{img.alt}}
+    </p>
+    <br />
   </div>
   {% endfor %}
 </div>
@@ -26,11 +26,11 @@
       <a href="{{img.link}}" title="{{img.alt}}" data-gallery>
         <img class="img-thumbnail gallery" src="{{img.src}}" alt='{{img.alt}}'/>
       </a>
-      <p>
-        {{img.alt}}
-      </p>
-      <br />
     </div>
+    <p>
+      {{img.alt}}
+    </p>
+    <br />
   </div>
   {% endfor %}
 </div>
