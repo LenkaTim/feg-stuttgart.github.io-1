@@ -3,7 +3,7 @@
 
 <h3>
   Hausaufgabenbetreuung
-</3>
+</h3>
 
 Triffst du dich gern mit Freunden?
 Gefällt dir das FEG?
@@ -15,3 +15,4 @@ An vier Nachmittagen treffen sich Schüler der Unterstufe im Schülerhaus in der
 <i class="fa fa-external-link"></i> Liste aller angebotenen Arbeitsgemeinschaften
 
 <i class="fa fa-external-link"></i> Bilder der Hausaufgabenbetreuung
+{% include footer.html %}
