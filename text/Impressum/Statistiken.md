@@ -8,7 +8,7 @@
         {{img.alt}}
       </h4>
       <a href="{{img.link}}" title="{{img.alt}}" data-gallery>
-        <img class="img-thumbnail gallery" src="{{img.src}}" alt='{{img.alt}}'/>
+        <img class="img-thumbnail" src="{{img.src}}" alt='{{img.alt}}'/>
       </a>
     </div>
     {% endfor %}
