@@ -1,9 +1,12 @@
-<body ng-controller="AngularCtrl" ng-app="customInterpolationApp">
+---
+---
+
 <h3>
   Vermischtes
 </h3>
 <div id="links">
   <div class="row">
+  {% for img in site.data.images %}
     <div class="col-lg-4" ng-repeat="img in images">
       <a href="{{img.link}}" title="{{img.alt}}" data-gallery>
         <img class="img-thumbnail gallery" src="{{img.src}}" alt='{{img.alt}}'/>
@@ -13,13 +16,9 @@
       </p>
       <br/>
     </div>
+    {% endfor %}
   </div>
 </div>
-    <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.2.9/angular.min.js">
-    </script>
-    <script charset="utf-8">
-function AngularCtrl($scope) {
-        $scope.images = [
           {
             link:'http://www.feg-stuttgart.de/bilder/galerie/vermischt/high/a1.jpg', src:'http://www.feg-stuttgart.de/bilder/galerie/vermischt/a1.jpg', alt:'Beim Wandertag an der Grabkapelle auf dem Rotenberg'},
           {
@@ -28,14 +27,3 @@ function AngularCtrl($scope) {
           {link:'http://www.feg-stuttgart.de/bilder/galerie/vermischt/high/a4.jpg', src:'http://www.feg-stuttgart.de/bilder/galerie/vermischt/a4.jpg', alt:'Hausaufgabenbetreuung'},
           {link:'http://www.feg-stuttgart.de/bilder/galerie/vermischt/high/a5.jpg', src:'http://www.feg-stuttgart.de/bilder/galerie/vermischt/a5.jpg', alt:'Der Computerraum nach der Neuausstattung'},
           {link:'http://www.feg-stuttgart.de/bilder/galerie/vermischt/high/a6.jpg', src:'http://www.feg-stuttgart.de/bilder/galerie/vermischt/a6.jpg', alt:'Künstlerische Ansicht des Schulgebäudes'}
-        ];
-      };
-          var customInterpolationApp = angular.module('customInterpolationApp', []);
-
-customInterpolationApp.config(function($interpolateProvider) {
-    $interpolateProvider.startSymbol('{(');
-    $interpolateProvider.endSymbol(')}');
-});
-
-    </script>
-    </body>
