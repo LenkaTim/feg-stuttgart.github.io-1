@@ -7,7 +7,7 @@
     <h4>
       {{img.alt}}
     </h4>
-    <img class="img-thumbnail" src="{{img.src}}" alt='{{img.alt}}'/>
+    <img class="img-thumbnail" src="{{img.src}}" alt='{{img.alt}}' style="width: 315px"/>
   </div>
   {% endfor %}
 </div>
@@ -17,7 +17,7 @@
     <h4>
       {{img.alt}}
     </h4>
-    <img class="img-thumbnail" src="{{img.src}}" alt='{{img.alt}}'/>
+    <img class="img-thumbnail" src="{{img.src}}" alt='{{img.alt}}' style="width: 315px"/>
   </div>
   {% endfor %}
 </div>
