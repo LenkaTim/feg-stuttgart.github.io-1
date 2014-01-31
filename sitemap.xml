@@ -7,9 +7,46 @@
 <url>
   <loc>http://www.feg-stuttgart.tk/</loc>
 </url>
+
+//Portrait
 <url>
   <loc>http://www.feg-stuttgart.tk/Portrait/</loc>
 </url>
+<url>
+  <loc>http://www.feg-stuttgart.tk/Portrait/Begruessung/</loc>
+</url>
+<url>
+  <loc>http://www.feg-stuttgart.tk/Portrait/Kollegium/</loc>
+</url>
+<url>
+  <loc>http://www.feg-stuttgart.tk/Portrait/Selbstverstaendnis/</loc>
+</url>
+<url>
+  <loc>http://www.feg-stuttgart.tk/Portrait/Unterrichtsprofil/</loc>
+</url>
+<url>
+  <loc>http://www.feg-stuttgart.tk/Portrait/Fordern_und_Foerdern/</loc>
+</url>
+<url>
+  <loc>http://www.feg-stuttgart.tk/Portrait/Aktivitaeten/</loc>
+</url>
+<url>
+  <loc>http://www.feg-stuttgart.tk/Portrait/Nachmittagsbetreuung/</loc>
+</url>
+<url>
+  <loc>http://www.feg-stuttgart.tk/Portrait/Geschichte_des_FEG/</loc>
+</url>
+<url>
+  <loc>http://www.feg-stuttgart.tk/Portrait/Geschichte_des_FEG/1/</loc>
+</url>
+<url>
+  <loc>http://www.feg-stuttgart.tk/Portrait/Geschichte_des_FEG/2/</loc>
+</url>
+<url>
+  <loc>http://www.feg-stuttgart.tk/Portrait/FEG_Forum/</loc>
+</url>
+
+//Schulleben
 <url>
   <loc>http://www.feg-stuttgart.tk/Schulleben/</loc>
 </url>
