@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<url>
+  <loc>http://www.feg-stuttgart.tk/</loc>
+</url>
+<url>
+  <loc>http://www.feg-stuttgart.tk/Portrait/</loc>
+</url>
+<url>
+  <loc>http://www.feg-stuttgart.tk/Schulleben/</loc>
+</url>
+<url>
+  <loc>http://www.feg-stuttgart.tk/Ehemalige/</loc>
+</url>
+<url>
+  <loc>http://www.feg-stuttgart.tk/Galerie/</loc>
+</url>
+<url>
+  <loc>http://www.feg-stuttgart.tk/SMV/</loc>
+</url>
+<url>
+  <loc>http://www.feg-stuttgart.tk/Impressum/</loc>
+</url>
+</urlset>
