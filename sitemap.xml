@@ -1,107 +1,152 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset
-      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
-            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
-<url>
-  <loc>http://www.feg-stuttgart.tk/</loc>
-</url>
-
-//Portrait
-<url>
-  <loc>http://www.feg-stuttgart.tk/Portrait/</loc>
-</url>
-<url>
-  <loc>http://www.feg-stuttgart.tk/Portrait/Begruessung/</loc>
-</url>
-<url>
-  <loc>http://www.feg-stuttgart.tk/Portrait/Kollegium/</loc>
-</url>
-<url>
-  <loc>http://www.feg-stuttgart.tk/Portrait/Selbstverstaendnis/</loc>
-</url>
-<url>
-  <loc>http://www.feg-stuttgart.tk/Portrait/Unterrichtsprofil/</loc>
-</url>
-<url>
-  <loc>http://www.feg-stuttgart.tk/Portrait/Fordern_und_Foerdern/</loc>
-</url>
-<url>
-  <loc>http://www.feg-stuttgart.tk/Portrait/Aktivitaeten/</loc>
-</url>
-<url>
-  <loc>http://www.feg-stuttgart.tk/Portrait/Nachmittagsbetreuung/</loc>
-</url>
-<url>
-  <loc>http://www.feg-stuttgart.tk/Portrait/Geschichte_des_FEG/</loc>
-</url>
-<url>
-  <loc>http://www.feg-stuttgart.tk/Portrait/Geschichte_des_FEG/1/</loc>
-</url>
-<url>
-  <loc>http://www.feg-stuttgart.tk/Portrait/Geschichte_des_FEG/2/</loc>
-</url>
-<url>
-  <loc>http://www.feg-stuttgart.tk/Portrait/FEG_Forum/</loc>
-</url>
-
-//Schulleben
-<url>
-  <loc>http://www.feg-stuttgart.tk/Schulleben/</loc>
-</url>
-<url>
-  <loc>http://www.feg-stuttgart.tk/Schulleben/Aktuelles/</loc>
-</url>
-<url>
-  <loc>http://www.feg-stuttgart.tk/Schulleben/Hausaufgabenbetreuung/</loc>
-</url>
-
-//Ehemalige
-<url>
-  <loc>http://www.feg-stuttgart.tk/Ehemalige/</loc>
-</url>
-<url>
-  <loc>http://www.feg-stuttgart.tk/Ehemalige/Ehemalige/</loc>
-</url>
-<url>
-  <loc>http://www.feg-stuttgart.tk/Ehemalige/Verein/</loc>
-</url>
-
-//Galerie
-<url>
-  <loc>http://www.feg-stuttgart.tk/Galerie/</loc>
-</url>
-<url>
-  <loc>http://www.feg-stuttgart.tk/Vermischtes/</loc>
-</url>
-
-//SMV
-<url>
-  <loc>http://www.feg-stuttgart.tk/SMV/</loc>
-</url>
-<url>
-
-//Impressum
-<url>
-  <loc>http://www.feg-stuttgart.tk/Impressum/</loc>
-</url>
-<url>
-  <loc>http://www.feg-stuttgart.tk/Impressum/Kontakt/</loc>
-</url>
-<url>
-  <loc>http://www.feg-stuttgart.tk/Impressum/Impressum/</loc>
-</url>
-<url>
-  <loc>http://www.feg-stuttgart.tk/Impressum/Anfahrt/</loc>
-</url>
-<url>
-  <loc>http://www.feg-stuttgart.tk/Impressum/Routenplaner/</loc>
-</url>
-<url>
-  <loc>http://www.feg-stuttgart.tk/Impressum/Unterrichtszeiten/</loc>
-</url>
-<url>
-  <loc>http://www.feg-stuttgart.tk/Impressum/Statistiken/</loc>
-</url>
+xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+  <url>
+    <loc>
+      http://www.feg-stuttgart.tk/
+    </loc>
+  </url>
+  <url>
+    <loc>
+      http://www.feg-stuttgart.tk/Portrait/
+    </loc>
+  </url>
+  <url>
+    <loc>
+      http://www.feg-stuttgart.tk/Portrait/Begruessung/
+    </loc>
+  </url>
+  <url>
+    <loc>
+      http://www.feg-stuttgart.tk/Portrait/Kollegium/
+    </loc>
+  </url>
+  <url>
+    <loc>
+      http://www.feg-stuttgart.tk/Portrait/Selbstverstaendnis/
+    </loc>
+  </url>
+  <url>
+    <loc>
+      http://www.feg-stuttgart.tk/Portrait/Unterrichtsprofil/
+    </loc>
+  </url>
+  <url>
+    <loc>
+      http://www.feg-stuttgart.tk/Portrait/Fordern_und_Foerdern/
+    </loc>
+  </url>
+  <url>
+    <loc>
+      http://www.feg-stuttgart.tk/Portrait/Aktivitaeten/
+    </loc>
+  </url>
+  <url>
+    <loc>
+      http://www.feg-stuttgart.tk/Portrait/Nachmittagsbetreuung/
+    </loc>
+  </url>
+  <url>
+    <loc>
+      http://www.feg-stuttgart.tk/Portrait/Geschichte_des_FEG/
+    </loc>
+  </url>
+  <url>
+    <loc>
+      http://www.feg-stuttgart.tk/Portrait/Geschichte_des_FEG/1/
+    </loc>
+  </url>
+  <url>
+    <loc>
+      http://www.feg-stuttgart.tk/Portrait/Geschichte_des_FEG/2/
+    </loc>
+  </url>
+  <url>
+    <loc>
+      http://www.feg-stuttgart.tk/Portrait/FEG_Forum/
+    </loc>
+  </url>
+  <url>
+    <loc>
+      http://www.feg-stuttgart.tk/Schulleben/
+    </loc>
+  </url>
+  <url>
+    <loc>
+      http://www.feg-stuttgart.tk/Schulleben/Aktuelles/
+    </loc>
+  </url>
+  <url>
+    <loc>
+      http://www.feg-stuttgart.tk/Schulleben/Hausaufgabenbetreuung/
+    </loc>
+  </url>
+  <url>
+    <loc>
+      http://www.feg-stuttgart.tk/Ehemalige/
+    </loc>
+  </url>
+  <url>
+    <loc>
+      http://www.feg-stuttgart.tk/Ehemalige/Ehemalige/
+    </loc>
+  </url>
+  <url>
+    <loc>
+      http://www.feg-stuttgart.tk/Ehemalige/Verein/
+    </loc>
+  </url>
+  <url>
+    <loc>
+      http://www.feg-stuttgart.tk/Galerie/
+    </loc>
+  </url>
+  <url>
+    <loc>
+      http://www.feg-stuttgart.tk/Vermischtes/
+    </loc>
+  </url>
+  <url>
+    <loc>
+      http://www.feg-stuttgart.tk/SMV/
+    </loc>
+  </url>
+  <url>
+    <loc>
+      http://www.feg-stuttgart.tk/Impressum/
+    </loc>
+  </url>
+  <url>
+    <loc>
+      http://www.feg-stuttgart.tk/Impressum/Kontakt/
+    </loc>
+  </url>
+  <url>
+    <loc>
+      http://www.feg-stuttgart.tk/Impressum/Impressum/
+    </loc>
+  </url>
+  <url>
+    <loc>
+      http://www.feg-stuttgart.tk/Impressum/Anfahrt/
+    </loc>
+  </url>
+  <url>
+    <loc>
+      http://www.feg-stuttgart.tk/Impressum/Routenplaner/
+    </loc>
+  </url>
+  <url>
+    <loc>
+      http://www.feg-stuttgart.tk/Impressum/Unterrichtszeiten/
+    </loc>
+  </url>
+  <url>
+    <loc>
+      http://www.feg-stuttgart.tk/Impressum/Statistiken/
+    </loc>
+  </url>
 </urlset>
