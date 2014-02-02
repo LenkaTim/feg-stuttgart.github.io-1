@@ -9,7 +9,7 @@
     {% for img in site.data.images-Galerie-Vermischtes-1 %}
     <div class="col-lg-4">
       <a href="{{img.link}}" title="{{img.alt}}" data-gallery>
-        <img class="img-thumbnail gallery" src="{{img.src}}" alt='{{img.alt}}'/>
+        <img class="img-thumbnail gallery" src="{{img.src}}" alt="{{img.alt}}"/>
       </a>
       <p>
         {{img.alt}}
@@ -22,7 +22,7 @@
     {% for img in site.data.images-Galerie-Vermischtes-2 %}
     <div class="col-lg-4">
       <a href="{{img.link}}" title="{{img.alt}}" data-gallery>
-        <img class="img-thumbnail gallery" src="{{img.src}}" alt='{{img.alt}}'/>
+        <img class="img-thumbnail gallery" src="{{img.src}}" alt="{{img.alt}}"/>
       </a>
       <p>
         {{img.alt}}
