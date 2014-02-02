@@ -10,7 +10,7 @@ layout: Startseite
     Willkommen auf dem Internetportal des Friedrich-Eugens-Gymnasiums in Stuttgart
   </p>
   <p>
-    <a class="btn btn-lg btn-success" role="button">
+    <a class="btn btn-lg btn-success" role="button" id="countdown-button">
       <script type="text/javascript">
         countdown("zu des Faschingsferien", "February 28, 2014 23:59:59 GMT+1");
       </script>
