@@ -4,7 +4,7 @@
   <div class="row">
     {% for img in site.data.images-Impressum-Statistiken-1 %}
     <div class="col-lg-4">
-      <a href="{{img.link}}" title="{{img.alt}}" data-gallery>
+      <a href="{{img.src}}" title="{{img.alt}}" data-gallery>
         <img class="img-thumbnail gallery" src="{{img.src}}" alt="{{img.alt}}"/>
       </a>
       <p>
@@ -17,7 +17,7 @@
   <div class="row">
     {% for img in site.data.images-Impressum-Statistiken-2 %}
     <div class="col-lg-4">
-      <a href="{{img.link}}" title="{{img.alt}}" data-gallery>
+      <a href="{{img.src}}" title="{{img.alt}}" data-gallery>
         <img class="img-thumbnail gallery" src="{{img.src}}" alt="{{img.alt}}"/>
       </a>
       <p>
