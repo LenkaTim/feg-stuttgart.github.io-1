@@ -4,6 +4,13 @@
 <h3>
   Vermischtes
 </h3>
+<style>
+#imagelightbox
+{
+    position: fixed;
+    z-index: 9999;
+}
+</style>
 <div class="row">
   {% for img in site.data.images-Galerie-Vermischtes-1 %}
   <div class="col-lg-4">
