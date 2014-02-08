@@ -16,15 +16,23 @@ layout: Startseite
       </script>
     </a>
     <div class="progress">
-      <div id="countdown_bar" class="progress-bar progress-bar-info" role="progressbar">
+      <div id="countdown_bar_gruen" class="progress-bar progress-bar-info" role="progressbar">
+      <div id="countdown_bar_gelb" class="progress-bar progress-bar-info" role="progressbar">
+      <div id="countdown_bar_rot" class="progress-bar progress-bar-info" role="progressbar">
       </div>
   </div>
   <script type="text/javascript">
-    var countdown_bar = document.getElementById("countdown_bar");
+    var countdown_bar_gruen = document.getElementById("countdown_bar_gruen");
+    var countdown_bar_gelb = document.getElementById("countdown_bar_gelb");
+    var countdown_bar_rot = document.getElementById("countdown_bar_rot");
     var countdown_button = document.getElementById("countdown-button");
     var dauer = "53";
     var width = (dauer - ausgabe) * ("100" / dauer);
-    countdown_bar.style.width =  width + "%";
+    var width_gelb = width_gruen - "50";
+    var width_rot = width_gruen + width_gelb - "80";
+    countdown_bar_gruen.style.width =  width + "%";
+    countdown_bar_gelb.style.width =  width_gelb + "%";
+    countdown_bar_rot.style.width =  width_rot + "%";
     if (width >= "50"){
       countdown_bar.className = "progress-bar progress-bar-warning";
       countdown_button.className = "btn btn-lg btn-warning";
