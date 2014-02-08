@@ -28,7 +28,7 @@ layout: Startseite
     var countdown_button = document.getElementById("countdown-button");
     var dauer = "53";
     var width = (dauer - ausgabe) * ("100" / dauer);
-    var width_gelb = width_gruen - "50";
+    var width_gelb = width - "50";
     var width_rot = width_gruen + width_gelb - "80";
     countdown_bar_gruen.style.width =  width + "%";
     countdown_bar_gelb.style.width =  width_gelb + "%";
