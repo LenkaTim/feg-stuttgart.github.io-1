@@ -17,8 +17,8 @@ layout: Startseite
     </a>
     <div class="progress">
       <div id="countdown_bar_gruen" class="progress-bar progress-bar-info" role="progressbar">
-      <div id="countdown_bar_gelb" class="progress-bar progress-bar-info" role="progressbar">
-      <div id="countdown_bar_rot" class="progress-bar progress-bar-info" role="progressbar">
+      <div id="countdown_bar_gelb" class="progress-bar progress-bar-warning" role="progressbar">
+      <div id="countdown_bar_rot" class="progress-bar progress-bar-danger" role="progressbar">
       </div>
   </div>
   <script type="text/javascript">
@@ -34,11 +34,9 @@ layout: Startseite
     countdown_bar_gelb.style.width =  width_gelb + "%";
     countdown_bar_rot.style.width =  width_rot + "%";
     if (width >= "50"){
-      countdown_bar.className = "progress-bar progress-bar-warning";
       countdown_button.className = "btn btn-lg btn-warning";
     }
     if (width >= "80"){
-      countdown_bar.className = "progress-bar progress-bar-danger";
       countdown_button.className = "btn btn-lg btn-danger";
     }
   </script>
