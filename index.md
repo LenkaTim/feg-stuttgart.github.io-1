@@ -27,11 +27,11 @@ layout: Startseite
     countdown_bar.style.width =  width + "%";
     if (width >= "50"){
       countdown_bar.className = "progress-bar progress-bar-warning";
-      countdown_bar.className = "btn btn-lg btn-warning";
+      countdown_button.className = "btn btn-lg btn-warning";
     }
     if (width >= "80"){
       countdown_bar.className = "progress-bar progress-bar-danger";
-      countdown_bar.className = "btn btn-lg btn-danger";
+      countdown_button.className = "btn btn-lg btn-danger";
     }
   </script>
 </p>
