@@ -7,6 +7,9 @@ layout: README
 
 ## Javascript: [![](https://codeclimate.com/github/feg-stuttgart/grunt.png)](https://codeclimate.com/github/feg-stuttgart/grunt) [![](https://travis-ci.org/feg-stuttgart/grunt.png?branch=master)](https://travis-ci.org/feg-stuttgart/grunt)
 
+  <p id="server_name">
+  </p>
+  
 <script data-cfbadgetype="c" data-cfbadgeskin="dkgray" type="text/javascript">
 //<![CDATA[
 try {
@@ -28,4 +31,13 @@ try {
     } catch (e$$6) {}
 };
 //]]>
-</script>
+if(document.domain == 'www.feg-stuttgart.tk'){
+$('#server_name').html('You´re hitting the Production-Server');
+};
+if(document.domain == 'beta.feg-stuttgart.tk'){
+$('#server_name').html('You´re hitting our Beta-Server');
+};
+if(document.domain != 'www.feg-stuttgart.tk' & document.domain != 'beta.feg-stuttgart.tk'){
+$('#server_name').html('You´re hitting an unknown Server');
+}
+  </script>
