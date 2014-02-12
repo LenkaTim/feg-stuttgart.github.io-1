@@ -32,12 +32,12 @@ try {
 };
 //]]>
 if(document.domain == 'www.feg-stuttgart.tk'){
-$('#server_name').html('You´re hitting the Production-Server <a href="http://beta.feg-stuttgart.tk/README/">Go to our Beta-Server</a>');
+$('#server_name').html('You´re hitting the Production-Server | <a href="http://beta.feg-stuttgart.tk/README/">Go to our Beta-Server</a>');
 };
 if(document.domain == 'beta.feg-stuttgart.tk'){
-$('#server_name').html('You´re hitting our Beta-Server <a href="http://www.feg-stuttgart.tk/README/">Go to our Production-Server</a>');
+$('#server_name').html('You´re hitting our Beta-Server |<a href="http://www.feg-stuttgart.tk/README/">Go to our Production-Server</a>');
 };
 if(document.domain != 'www.feg-stuttgart.tk' & document.domain != 'beta.feg-stuttgart.tk'){
-$('#server_name').html('You´re hitting an unknown Server <a href="http://www.feg-stuttgart.tk/README/">Go to our Production-Server</a>');
+$('#server_name').html('You´re hitting an unknown Server | <a href="http://www.feg-stuttgart.tk/README/">Go to our Production-Server</a>');
 }
   </script>
