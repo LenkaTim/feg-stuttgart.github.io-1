@@ -9,4 +9,8 @@ Gerhard Schlecht schreibt über <a href="javascript:ajaxload('Portrait', 'Geschi
 Dr. Werner Abelein schreibt über 
 <a href="javascript:ajaxload('Portrait', 'Geschichte_des_FEG/2');"><i class="fa fa-external-link"></i> die Geschichte der Schule</a> von den Anfängen 1796 bis heute
 
+<script type="text/javascript">
+  $('#sidebar').load('/static/sidebar/Portrait_Geschichte_des_FEG.html');
+</script>
+
 {% include footer.html %}
