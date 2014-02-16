@@ -21,21 +21,6 @@ layout: Startseite
       <div id="countdown_bar" class="progress-bar progress-bar-info" role="progressbar">
       </div>
   </div>
-  <script type="text/javascript">
-    var countdown_bar = document.getElementById("countdown_bar");
-    var countdown_button = document.getElementById("countdown-button");
-    var dauer = "53";
-    var width = (dauer - ausgabe) * ("100" / dauer);
-    countdown_bar.style.width =  width + "%";
-    if (width >= "50"){
-      countdown_bar.className = "progress-bar progress-bar-warning";
-      countdown_button.className = "btn btn-lg btn-warning";
-    }
-    if (width >= "80"){
-      countdown_bar.className = "progress-bar progress-bar-danger";
-      countdown_button.className = "btn btn-lg btn-danger";
-    }
-  </script>
 </p>
 </div>
 
