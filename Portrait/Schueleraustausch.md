@@ -3,5 +3,7 @@ layout: Portrait
 ---
 
 <script type="text/javascript">
-    ajaxload('Portrait', 'Schueleraustausch');
+    require(['custom'], function(custom){
+        custom.ajaxload('Portrait', 'Schueleraustausch');
+    });
 </script>
