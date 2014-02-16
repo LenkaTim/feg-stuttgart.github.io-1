@@ -3,5 +3,7 @@ layout: Portrait
 ---
 
 <script type="text/javascript">
-    ajaxload('Portrait', 'FEG_Forum');
+    require(['custom'], function(custom){
+        custom.ajaxload('Portrait', 'FEG_Forum');
+    });
 </script>
