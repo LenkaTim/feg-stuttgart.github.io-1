@@ -12,7 +12,9 @@ layout: Startseite
   <p>
     <a class="btn btn-lg btn-success" role="button" id="countdown-button">
       <script type="text/javascript">
-        countdown("zu des Faschingsferien", "February 28, 2014 23:59:59 GMT+1");
+        require(['custom'], function(custom){
+          custom.countdown("zu des Faschingsferien", "February 28, 2014 23:59:59 GMT+1");
+        });
       </script>
     </a>
     <div class="progress">
