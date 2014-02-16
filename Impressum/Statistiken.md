@@ -3,5 +3,7 @@ layout: Impressum
 ---
 
 <script type="text/javascript">
-    ajaxload('Impressum', 'Statistiken');
+    require(['custom'], function(custom){
+        custom.ajaxload('Impressum', 'Statistiken');
+    });
 </script>
