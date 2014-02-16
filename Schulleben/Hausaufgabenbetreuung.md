@@ -3,5 +3,7 @@ layout: Schulleben
 ---
 
 <script type="text/javascript">
-    ajaxload('Schulleben', 'Hausaufgabenbetreuung');
+    require(['custom'], function(custom){
+        custom.ajaxload('Schulleben', 'Hausaufgabenbetreuung');
+    });
 </script>
