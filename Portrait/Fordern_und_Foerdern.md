@@ -3,5 +3,7 @@ layout: Portrait
 ---
 
 <script type="text/javascript">
-    ajaxload('Portrait', 'Fordern_und_Foerdern');
+    require(['custom'], function(custom){
+        custom.ajaxload('Portrait', 'Fordern_und_Foerdern');
+    });
 </script>
