@@ -3,5 +3,7 @@ layout: Ehemalige
 ---
 
 <script type="text/javascript">
-    ajaxload('Ehemalige', 'Verein');
+    require(['custom'], function(custom){
+        custom.ajaxload('Ehemalige', 'Verein');
+    });
 </script>
