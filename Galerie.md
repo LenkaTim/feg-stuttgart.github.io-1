@@ -3,5 +3,7 @@ layout: Galerie
 ---
 
 <script type="text/javascript">
-    ajaxload('Galerie', 'Vermischtes', '1');
+    require(['custom'], function(custom){
+        custom.ajaxload('Galerie', 'Vermischtes', '1');
+    });
 </script>
